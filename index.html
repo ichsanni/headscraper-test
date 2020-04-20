@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>test</title>
+    <style>
+        body {
+            color: #333;
+            padding: 20px;
+        }
+        h2 {
+            text-align: center;
+        }
+        tr, td {
+            border: 1px solid #555;
+            padding: 10px;
+        }
+        table, tr, td {
+            border-collapse: collapse;
+        }
+        table tr:nth-child(even){
+            background: #EEE;
+        }
+        table tr:hover {
+            color: #FFF;
+            background: #777;
+        }
+
+    </style>
+</head>
+<body>
+<small>latest update: 2020-04-20 11:51</small>
+<h2>COVID-related news</h2>
+<table id="covid-table">
+    <tr id="head">
+        <th>Source</th>
+        <th>Title</th>
+        <th>Link</th>
+    </tr>
+</table>
+<h2>General news</h2>
+<table id="general-table">
+    <tr id="head">
+        <th>Source</th>
+        <th>Title</th>
+        <th>Link</th>
+    </tr>
+</table>
+<script>
+var xmlhttp = new XMLHttpRequest();
+xmlhttp.onreadystatechange = function() {
+  if (this.readyState == 4 && this.status == 200) {
+    var myObj = JSON.parse(this.response);
+
+    for(i=0; i < myObj.covid.length; i++){
+        var parent = document.getElementById("covid-table");
+        var child = document.createElement("tr");
+        var source = document.createElement("td");
+        var title = document.createElement("td");
+        var link = document.createElement("td");
+        link.setAttribute("class", "link");
+        child.appendChild(source);
+        child.appendChild(title);
+        child.appendChild(link);
+        parent.appendChild(child);
+
+        source.append(myObj.covid[i].source);
+        title.append(myObj.covid[i].title);
+        link.append(myObj.covid[i].link);
+        //link.innerHTML = "<a href='" + myObj.covid[i].link + "'>Copy Link</a>";
+        //link.innerHTML = "<td>aaaa</td>";
+    }
+
+    for(i=0; i < myObj.general.length; i++){
+        var parent = document.getElementById("general-table");
+        var child = document.createElement("tr");
+        var source = document.createElement("td");
+        var title = document.createElement("td");
+        var link = document.createElement("td");
+        child.appendChild(source);
+        child.appendChild(title);
+        child.appendChild(link);
+
+        parent.appendChild(child);
+
+        source.append(myObj.general[i].source);
+        title.append(myObj.general[i].title);
+        link.append(myObj.general[i].link);
+    }
+  }
+};
+xmlhttp.open("GET", "headscraper/latest.json", true);
+xmlhttp.send();
+</script>
+
+</body>
+</html>

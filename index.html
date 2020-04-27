@@ -5,7 +5,7 @@
     <title>test</title>
     <style>
         body {
-            color: #333;
+            color: #A6002F;
             padding: 20px;
         }
         h2 {
@@ -18,18 +18,56 @@
         table, tr, td {
             border-collapse: collapse;
         }
+	table {
+	    margin: auto;
+	}
         table tr:nth-child(even){
-            background: #EEE;
-        }
-        table tr:hover {
+            background: #09B5AF;
             color: #FFF;
-            background: #777;
         }
+        table tr td a {
+            display: block;
+            width: 100%;
+            height: 100%;
+            text-decoration: none;
+        }
+        table tr td a:link {
+            color: #36D;
+        }
+        table tr td a:hover {
+            color: #FFF;
+            background: #
+        }
+        table tr td a button {
+            padding: 10px;
+            width: 100%;
+            height: 100%;
+            background: rgba(0, 0, 0, 0);
+	    border: 0px;
+        }
+	table tr td a button:hover {
+	    background: #A6002F;
+	    color: #FFF;
+	}
 
+        #word-clouds {
+            width: 50%;
+            display: flex;
+            flex-flow: row wrap;
+            justify-content: space-around;
+            align-items: center;
+            margin: auto;
+        }
+        #word-clouds span {
+            margin: 3px;
+        }
     </style>
 </head>
 <body>
 <small>latest update: 2020-04-20 11:51</small>
+
+<div id="word-clouds"></div>
+
 <h2>COVID-related news</h2>
 <table id="covid-table">
     <tr id="head">
@@ -52,23 +90,36 @@ xmlhttp.onreadystatechange = function() {
   if (this.readyState == 4 && this.status == 200) {
     var myObj = JSON.parse(this.response);
 
+    for(word in myObj.words){
+        if (myObj.words[word] > 3) {
+            var value = myObj.words[word] * 2 + 10;
+            var wordClouds = document.getElementById("word-clouds");
+            var child = document.createElement("span");
+            child.setAttribute('style', 'font-size: '+ value + 'px;');
+            wordClouds.appendChild(child);
+
+            child.append(word);
+            }
+        }
+
     for(i=0; i < myObj.covid.length; i++){
         var parent = document.getElementById("covid-table");
         var child = document.createElement("tr");
         var source = document.createElement("td");
         var title = document.createElement("td");
-        var link = document.createElement("td");
-        link.setAttribute("class", "link");
+        var linkCell = document.createElement("td");
+        var link = document.createElement("a");
+
+        link.setAttribute("href", myObj.covid[i].link);
+        linkCell.appendChild(link);
         child.appendChild(source);
         child.appendChild(title);
-        child.appendChild(link);
+        child.appendChild(linkCell);
         parent.appendChild(child);
 
         source.append(myObj.covid[i].source);
         title.append(myObj.covid[i].title);
-        link.append(myObj.covid[i].link);
-        //link.innerHTML = "<a href='" + myObj.covid[i].link + "'>Copy Link</a>";
-        //link.innerHTML = "<td>aaaa</td>";
+        link.innerHTML = "<button>Visit Link</button>";
     }
 
     for(i=0; i < myObj.general.length; i++){
@@ -76,22 +127,25 @@ xmlhttp.onreadystatechange = function() {
         var child = document.createElement("tr");
         var source = document.createElement("td");
         var title = document.createElement("td");
-        var link = document.createElement("td");
+        var linkCell = document.createElement("td");
+        var link = document.createElement("a");
+
+        link.setAttribute("href", myObj.general[i].link);
+        linkCell.appendChild(link);
         child.appendChild(source);
         child.appendChild(title);
-        child.appendChild(link);
+        child.appendChild(linkCell);
 
         parent.appendChild(child);
 
         source.append(myObj.general[i].source);
         title.append(myObj.general[i].title);
-        link.append(myObj.general[i].link);
+        link.innerHTML = "<button>Visit Link</button>";
     }
   }
 };
 xmlhttp.open("GET", "headscraper/latest.json", true);
 xmlhttp.send();
 </script>
-
 </body>
 </html>

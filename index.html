@@ -91,16 +91,16 @@ xmlhttp.onreadystatechange = function() {
    
     var totalCount= 0;
     for(word in myObj.words){
-        totalCount += 1;
+        totalCount += word;
     }
 
     for(word in myObj.words){
 	var percentage = myObj.words[word] / totalCount * 100;
-	if (percentage > 1) {
-            var value = percentage + 0.4;
+	if (percentage > 5) {
+            var value = percentage;
             var wordClouds = document.getElementById("word-clouds");
             var child = document.createElement("span");
-            child.setAttribute('style', 'font-size: ' + value + 'rem;');
+            child.setAttribute('style', 'font-size: ' + value + 'em;');
             wordClouds.appendChild(child);
 
             child.append(word);

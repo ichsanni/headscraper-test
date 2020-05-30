@@ -64,7 +64,6 @@
     </style>
 </head>
 <body>
-<small>updated manually on 2020-05-29 at 16.00</small>
 
 <div id="word-clouds"></div>
 
@@ -89,13 +88,19 @@ var xmlhttp = new XMLHttpRequest();
 xmlhttp.onreadystatechange = function() {
   if (this.readyState == 4 && this.status == 200) {
     var myObj = JSON.parse(this.response);
+   
+    var totalCount= 0;
+    for(word in myObj.words){
+        totalCount += 1;
+    }
 
     for(word in myObj.words){
-        if (myObj.words[word] > 3) {
-            var value = myObj.words[word] * 2 + 10;
+	var percentage = myObj.words[word] / totalCount * 100;
+	if (percentage > 15) {
+            var value = percentage + 80;
             var wordClouds = document.getElementById("word-clouds");
             var child = document.createElement("span");
-            child.setAttribute('style', 'font-size: '+ value + 'px;');
+            child.setAttribute('style', 'font-size: '+ value + '%;');
             wordClouds.appendChild(child);
 
             child.append(word);

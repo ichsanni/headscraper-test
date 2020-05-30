@@ -100,7 +100,7 @@ xmlhttp.onreadystatechange = function() {
             var value = percentage * 8 + 120;
             var wordClouds = document.getElementById("word-clouds");
             var child = document.createElement("span");
-            child.setAttribute('style', 'font-size: ' + value + '%;');
+            
             wordClouds.appendChild(child);
 
             child.append(word);

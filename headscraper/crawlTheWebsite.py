@@ -1,4 +1,4 @@
-import datetime
+import datetime, time
 from spiders import kompas, detik, cnnindonesia, cnbc
 from scrapy.crawler import CrawlerProcess
 import shutil, os.path, json
@@ -46,6 +46,7 @@ class CrawlTheWebsite():
         self.start_scraping()
 
 CrawlTheWebsite()
+
 # to run the crawler:
 # python3 crawlTheWebsite.py
 

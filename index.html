@@ -91,7 +91,7 @@ xmlhttp.onreadystatechange = function() {
    
     var totalCount= 0;
     for(word in myObj.words){
-        totalCount += word;
+        totalCount += myObj.words[word];
     }
 
     for(word in myObj.words){

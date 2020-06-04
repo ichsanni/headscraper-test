@@ -24,7 +24,6 @@ class CNNSpider(scrapy.Spider):
                     'title': new_title,
                     'link': new_link
                 }
-                covid_related = re.search("COVID-19|Covid-19|Corona|Pandemi|Virus", new_title)
-                GetResults.get_covid_news(parsed) if covid_related else GetResults.get_general_news(parsed)
+                GetResults.get_news(parsed)
                 splitted_words = re.split('\s+', new_title)
                 GetResults.append_temp(splitted_words)

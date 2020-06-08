@@ -116,6 +116,7 @@ xmlhttp.onreadystatechange = function() {
         var link = document.createElement("a");
 
         link.setAttribute("href", myObj.covid[i].link);
+	link.setAttribute("target", "_blank");
         linkCell.appendChild(link);
         child.appendChild(source);
         child.appendChild(title);
@@ -136,6 +137,7 @@ xmlhttp.onreadystatechange = function() {
         var link = document.createElement("a");
 
         link.setAttribute("href", myObj.general[i].link);
+	link.setAttribute("target", "_blank")
         linkCell.appendChild(link);
         child.appendChild(source);
         child.appendChild(title);

@@ -1,0 +1,1093 @@
+{
+    "covid": [
+        {
+            "link": "https://news.detik.com/berita/d-5056457/bertambah-3-kasus-positif-corona-di-bengkulu-jadi-104?tag_from=wp_nhl_30",
+            "source": "Detik",
+            "title": " Bertambah 3 Kasus Positif Corona di Bengkulu Jadi 104"
+        },
+        {
+            "link": "https://www.cnbcindonesia.com/news/20200616202832-16-165876/4-negara-pesan-vaksin-covid-19-ada-indonesia",
+            "source": "CNBC Indonesia",
+            "title": "4 Negara Pesan Vaksin Covid-19 Ada Indonesia"
+        },
+        {
+            "link": "https://regional.kompas.com/read/2020/06/16/19343611/tak-kebagian-bansos-covid-19-ratusan-warga-blokade-jalan-nasional-sumut",
+            "source": "Kompas",
+            "title": "Tak Kebagian Bansos Covid-19 Ratusan Warga Blokade Jalan Nasional Sumut-Sumbar"
+        },
+        {
+            "link": "https://www.kompas.tv/article/87436/surabaya-buka-bukaan-data-alamat-pasien-corona",
+            "source": "Kompas",
+            "title": "Surabaya Buka-bukaan Data Alamat Pasien Corona"
+        },
+        {
+            "link": "https://www.kompas.com/sports/read/2020/06/17/05000038/cabor-basket-indonesia-kini-punya-panduan-kesehatan-pada-era-new-normal",
+            "source": "Kompas",
+            "title": "Cabor Basket Indonesia Kini Punya Panduan Kesehatan pada Era New Normal"
+        },
+        {
+            "link": "https://www.kompas.tv/article/87435/heboh-jemput-paksa-belasan-pasien-positif-corona-di-blora-lanjut-diminta-isolasi-mandiri",
+            "source": "Kompas",
+            "title": "Heboh Jemput Paksa Belasan Pasien Positif Corona di Blora Lanjut Diminta Isolasi Mandiri"
+        },
+        {
+            "link": "https://www.kompasiana.com/josehasibuan/5ee79580d541df0699295a92/anak-masuk-paud-saat-pandemi-tunda-dulu-atau-jalan-terus?utm_source=kompascom&utm_medium=article&utm_campaign=ContentFeed",
+            "source": "Kompas",
+            "title": "Anak Masuk PAUD Saat Pandemi Tunda Dulu atau Jalan Terus"
+        },
+        {
+            "link": "https://www.bolasport.com/read/312199445/serangan-pandemi-covid-19-tak-kendorkan-target-eks-persib-ini",
+            "source": "Kompas",
+            "title": "Serangan Pandemi COVID-19 Tak Kendorkan Target Eks Persib Ini"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/tv/20200616232445-412-514081/video-lockdown-dilonggarkan-kasus-covid-19-india-meningkat",
+            "source": "CNN Indonesia",
+            "title": "VIDEO Lockdown Dilonggarkan Kasus Covid-19 India Meningkat"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/nasional/20200616133412-20-513835/gara-gara-corona-peserta-rapat-paripurna-hut-dki-dibatasi",
+            "source": "CNN Indonesia",
+            "title": "Gara-gara Corona Peserta Rapat Paripurna HUT DKI Dibatasi"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/nasional/20200616235220-20-514083/sebanyak-957-pasien-positif-corona-di-sumut-diisolasi",
+            "source": "CNN Indonesia",
+            "title": "Sebanyak 957 Pasien Positif Corona di Sumut Diisolasi"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/gaya-hidup/20200313191641-525-483285/rumus-melawan-virus",
+            "source": "CNN Indonesia",
+            "title": "Rumus Melawan Virus"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/nasional/20200615082659-33-513303/menjaga-hak-pilih-pilkada-di-tengah-corona",
+            "source": "CNN Indonesia",
+            "title": "Menjaga Hak Pilih Pilkada di Tengah Corona"
+        }
+    ],
+    "general": [
+        {
+            "link": "https://travel.detik.com/travel-news/d-5056376/gokil-anak-anaknya-ini-bermain-jungkit-jungkit-tak-biasa?tag_from=wp_nhl_2",
+            "source": "Detik",
+            "title": " Gokil Anak-anaknya Ini Bermain Jungkit-jungkit Tak Biasa"
+        },
+        {
+            "link": "https://sport.detik.com/sepakbola/liga-spanyol/d-5056492/barcelona-vs-leganes-ansu-fati-messi-menangkan-blaugrana-2-0?tag_from=wp_nhl_3",
+            "source": "Detik",
+            "title": " Barcelona Vs Leganes Ansu Fati-Messi Menangkan Blaugrana 2-0"
+        },
+        {
+            "link": "https://sport.detik.com/sepakbola/liga-inggris/d-5056475/jika-paul-pogba-tampil-oke-liverpool-dan-man-city-pun-lewat?tag_from=wp_nhl_4",
+            "source": "Detik",
+            "title": " Jika Paul Pogba Tampil Oke Liverpool dan Man City pun Lewat"
+        },
+        {
+            "link": "https://health.detik.com/sexual-health/d-5056477/arti-desahan-saat-sedang-menikmati-sesi-bercinta?tag_from=wp_nhl_6",
+            "source": "Detik",
+            "title": " Arti Desahan Saat Sedang Menikmati Sesi Bercinta"
+        },
+        {
+            "link": "https://sport.detik.com/sepakbola/liga-spanyol/d-5056247/barcelona-sekolah-nya-jose-mourinho?tag_from=wp_nhl_7",
+            "source": "Detik",
+            "title": " Barcelona Jose Mourinho"
+        },
+        {
+            "link": "https://sport.detik.com/sepakbola/liga-italia/d-5056474/sarri-siapa-bilang-saya-belum-pernah-juara-apapun-di-italia?tag_from=wp_nhl_8",
+            "source": "Detik",
+            "title": " Sarri Siapa Bilang Saya Belum Pernah Juara Apapun di Italia"
+        },
+        {
+            "link": "https://news.detik.com/berita/d-5056491/pabrik-cat-di-tangerang-kebakaran-14-unit-damkar-dikerahkan?tag_from=wp_nhl_9",
+            "source": "Detik",
+            "title": " Pabrik Cat di Tangerang Kebakaran 14 Unit Damkar Dikerahkan"
+        },
+        {
+            "link": "https://sport.detik.com/sepakbola/liga-italia/d-5056472/geramnya-gattuso-usir-lozano-saat-latihan?tag_from=wp_nhl_10",
+            "source": "Detik",
+            "title": " Geramnya Gattuso Usir Lozano saat Latihan"
+        },
+        {
+            "link": "https://news.detik.com/internasional/d-5056490/serangan-udara-di-yaman-tewaskan-13-warga-4-di-antaranya-anak-anak?tag_from=wp_nhl_12",
+            "source": "Detik",
+            "title": " Serangan Udara di Yaman Tewaskan 13 Warga 4 di Antaranya Anak-anak"
+        },
+        {
+            "link": "https://sport.detik.com/sepakbola/liga-jerman/d-5056489/bremen-vs-bayern-menang-tipis-die-roten-kunci-gelar-juara?tag_from=wp_nhl_13",
+            "source": "Detik",
+            "title": " Bremen Vs Bayern Menang Tipis Die Roten Kunci Gelar Juara"
+        },
+        {
+            "link": "https://finance.detik.com/berita-ekonomi-bisnis/d-5056389/pengelola-buka-suara-soal-hoax-wajib-scan-qr-code-masuk-mal?tag_from=wp_nhl_14",
+            "source": "Detik",
+            "title": " Pengelola Buka Suara Soal Hoax Wajib Scan QR Code Masuk Mal"
+        },
+        {
+            "link": "https://sport.detik.com/sepakbola/liga-jerman/d-5056488/bayern-munich-kunci-gelar-juara-bundesliga-20192020?tag_from=wp_nhl_15",
+            "source": "Detik",
+            "title": " Bayern Munich Kunci Gelar Juara Bundesliga 20192020"
+        },
+        {
+            "link": "https://news.detik.com/berita/d-5056485/gempa-m-31-terjadi-di-sabang-aceh?tag_from=wp_nhl_16",
+            "source": "Detik",
+            "title": " Gempa M 31 Terjadi di Sabang Aceh"
+        },
+        {
+            "link": "https://sport.detik.com/sepakbola/liga-inggris/d-5056448/guardiola-khawatir-man-city-tak-siap-untuk-kembali-bermain?tag_from=wp_nhl_17",
+            "source": "Detik",
+            "title": " Guardiola Khawatir Man City Tak Siap untuk Kembali Bermain"
+        },
+        {
+            "link": "https://news.detik.com/berita/d-5056484/pabrik-ban-di-tangerang-terbakar-5-unit-damkar-meluncur?tag_from=wp_nhl_18",
+            "source": "Detik",
+            "title": " Pabrik Ban di Tangerang Terbakar 5 Unit Damkar Meluncur"
+        },
+        {
+            "link": "https://news.detik.com/internasional/d-5056483/10-tahun-perang-dengan-china-di-perbatasan-himalaya-20-tentara-india-tewas?tag_from=wp_nhl_20",
+            "source": "Detik",
+            "title": " 10 Tahun Perang dengan China di Perbatasan Himalaya 20 Tentara India Tewas"
+        },
+        {
+            "link": "https://sport.detik.com/sepakbola/liga-jerman/d-5056455/bayer-leverkusen-siap-lepas-kai-havertz?tag_from=wp_nhl_21",
+            "source": "Detik",
+            "title": " Bayer Leverkusen Siap Lepas Kai Havertz"
+        },
+        {
+            "link": "https://news.detik.com/berita/d-5056478/gempa-m-43-terjadi-di-sumbawa-barat-ntb?tag_from=wp_nhl_22",
+            "source": "Detik",
+            "title": " Gempa M 43 Terjadi di Sumbawa Barat NTB"
+        },
+        {
+            "link": "https://news.detik.com/berita/d-5056476/gosip-dengan-tetangga-istri-di-bekasi-ditampar-suami?tag_from=wp_nhl_24",
+            "source": "Detik",
+            "title": " Gosip dengan Tetangga Istri di Bekasi Ditampar Suami"
+        },
+        {
+            "link": "https://news.detik.com/internasional/d-5056471/trump-teknik-tekan-leher-tersangka-dilarang-kecuali-polisi-dalam-bahaya?tag_from=wp_nhl_25",
+            "source": "Detik",
+            "title": " Trump Teknik Tekan Leher Tersangka Dilarang Kecuali Polisi dalam Bahaya"
+        },
+        {
+            "link": "https://health.detik.com/sexual-health/d-5056215/4-hal-yang-perlu-diperhatikan-pria-saat-pakai-pelumas-sebelum-bercinta?tag_from=wp_nhl_26",
+            "source": "Detik",
+            "title": " 4 Hal yang Perlu Diperhatikan Pria Saat Pakai Pelumas Sebelum Bercinta"
+        },
+        {
+            "link": "https://sport.detik.com/moto-gp/d-5056453/tatap-jadwal-padat-motogp-quartararo-pebalap-harus-lebih-hati-hati?tag_from=wp_nhl_27",
+            "source": "Detik",
+            "title": " Tatap Jadwal Padat MotoGP Quartararo Pebalap Harus Lebih Hati-hati"
+        },
+        {
+            "link": "https://sport.detik.com/sepakbola/liga-inggris/d-5056456/guardiola-bagaimana-nasib-kyle-walker?tag_from=wp_nhl_28",
+            "source": "Detik",
+            "title": " Guardiola Bagaimana Nasib Kyle Walker"
+        },
+        {
+            "link": "https://www.cnbcindonesia.com/tech/20200616204505-37-165881/uang-sampai-saham-ini-deretan-pesangon-buat-karyawan-grab",
+            "source": "CNBC Indonesia",
+            "title": "Uang Sampai Saham Ini Deretan Pesangon Buat Karyawan Grab"
+        },
+        {
+            "link": "https://www.cnbcindonesia.com/news/20200616202533-4-165880/ancaman-krisis-pangan-14-juta-ha-gambut-disulap-jadi-sawah",
+            "source": "CNBC Indonesia",
+            "title": "Ancaman Krisis Pangan 14 Juta Ha Gambut Disulap Jadi Sawah"
+        },
+        {
+            "link": "https://www.cnbcindonesia.com/market/20200616204630-17-165879/data-ritel-as-ciamik-dow-jones-dibuka-terbang-828-poin",
+            "source": "CNBC Indonesia",
+            "title": "Data Ritel AS Ciamik Dow Jones Dibuka Terbang 828 Poin"
+        },
+        {
+            "link": "https://www.cnbcindonesia.com/market/20200616152547-17-165791/triliunan-dolar-mengaliri-perekonomian-emas-siap-terbang",
+            "source": "CNBC Indonesia",
+            "title": "Triliunan Dolar Mengaliri Perekonomian Emas Siap Terbang"
+        },
+        {
+            "link": "https://www.cnbcindonesia.com/news/20200616195354-4-165871/larangan-resmi-dicabut-ekspor-apd-masker-kini-bebas",
+            "source": "CNBC Indonesia",
+            "title": "Larangan Resmi Dicabut Ekspor APD  Masker Kini Bebas"
+        },
+        {
+            "link": "https://www.cnbcindonesia.com/news/20200616195618-4-165872/harga-gas-ri-lebih-murah-dari-segelas-kopi-sampai-kapan",
+            "source": "CNBC Indonesia",
+            "title": "Harga Gas RI Lebih Murah dari Segelas Kopi Sampai Kapan"
+        },
+        {
+            "link": "https://www.cnbcindonesia.com/news/20200616195545-4-165873/besok-bph-migas-resmikan-bbm-satu-harga-di-pulau-maya-kalbar",
+            "source": "CNBC Indonesia",
+            "title": "Besok BPH Migas Resmikan BBM Satu Harga di Pulau Maya Kalbar"
+        },
+        {
+            "link": "https://www.cnbcindonesia.com/tech/20200616133532-39-165730/whatsapp-payment-resmi-diluncurkan",
+            "source": "CNBC Indonesia",
+            "title": "Whatsapp Payment Resmi Diluncurkan"
+        },
+        {
+            "link": "https://www.cnbcindonesia.com/market/20200616191521-17-165865/trump-akan-kucurkan-us--1-triliun-dolar-as-bergerak-variatif",
+            "source": "CNBC Indonesia",
+            "title": "Trump Akan Kucurkan US 1 Triliun Dolar AS Bergerak Variatif"
+        },
+        {
+            "link": "https://www.cnbcindonesia.com/lifestyle/20200616191439-33-165870/tenang-bunda-sekolah-di-jakarta-belum-perlu-tatap-muka",
+            "source": "CNBC Indonesia",
+            "title": "Tenang Bunda Sekolah di Jakarta Belum Perlu Tatap Muka"
+        },
+        {
+            "link": "https://www.cnbcindonesia.com/news/20200616182351-4-165857/kantor-penghubung-diledakkan-korsel-korut-tanggung-jawab",
+            "source": "CNBC Indonesia",
+            "title": "Kantor Penghubung Diledakkan Korsel Korut Tanggung Jawab"
+        },
+        {
+            "link": "https://money.kompas.com/read/2020/06/16/190000726/januari-mei-2020-pemerintah-sudah-tarik-utang-rp-360-7-triliun",
+            "source": "Kompas",
+            "title": "Januari-Mei 2020 Pemerintah Sudah Tarik Utang Rp 3607 Triliun"
+        },
+        {
+            "link": "https://money.kompas.com/read/2020/06/17/050603226/larangan-dicabut-masker-dan-apd-kini-boleh-diekspor-lagi",
+            "source": "Kompas",
+            "title": "Larangan Dicabut Masker dan APD Kini Boleh Diekspor Lagi"
+        },
+        {
+            "link": "https://bola.kompas.com/read/2020/06/17/05035298/hasil-barcelona-vs-leganes-penalti-messi-warnai-kemenangan-el-barca",
+            "source": "Kompas",
+            "title": "Hasil Barcelona Vs Leganes Penalti Messi Warnai Kemenangan El Barca"
+        },
+        {
+            "link": "https://www.bolasport.com/read/312199034/mike-tyson-ungkap-1-lawan-muhammad-ali-yang-bisa-bikin-dia-menangis",
+            "source": "Kompas",
+            "title": "Mike Tyson Ungkap 1 Lawan Muhammad Ali yang Bisa Bikin Dia Menangis"
+        },
+        {
+            "link": "https://kompas.id/baca/nusantara/2020/06/17/cara-desa-melawan-korona/?utm_source=external_kompascom&utm_medium=berita_terkini&utm_campaign=kompascom",
+            "source": "Kompas",
+            "title": "Cara Desa Melawan Korona"
+        },
+        {
+            "link": "https://bola.kompas.com/read/2020/06/17/04422448/klasemen-bundesliga-bayern-juara-moenchengladbach-tembus-4-besar",
+            "source": "Kompas",
+            "title": "Klasemen Bundesliga - Bayern Juara Moenchengladbach Tembus 4 Besar"
+        },
+        {
+            "link": "https://info.kompas.com/promo/epaper-kompasid?source=300x200",
+            "source": "Kompas",
+            "title": "Semakin Paham dengan ePaper Kompas GRATIS"
+        },
+        {
+            "link": "https://bola.kompas.com/read/2020/06/17/04400098/gerrard--jika-liverpool-juara-liga-inggris-patung-juergen-klopp-harus-dibuat",
+            "source": "Kompas",
+            "title": "Gerrard Jika Liverpool Juara Liga Inggris Patung Juergen Klopp Harus Dibuat"
+        },
+        {
+            "link": "https://www.kompas.tv/article/87434/kritik-kasus-novel-bintang-emon-diserang-buzzer-dan-dilaporkan-ke-kominfo",
+            "source": "Kompas",
+            "title": "Kritik Kasus Novel Bintang Emon Diserang Buzzer dan Dilaporkan ke Kominfo"
+        },
+        {
+            "link": "https://bola.kompas.com/read/2020/06/17/04004258/hasil-bundesliga-bayern-muenchen-amankan-gelar-juara-ke-30",
+            "source": "Kompas",
+            "title": "Hasil Bundesliga Bayern Muenchen Amankan Gelar Juara Ke-30"
+        },
+        {
+            "link": "https://www.kompas.tv/article/87433/kpai-sebut-680-ribu-siswa-di-papua-tidak-akses-internet",
+            "source": "Kompas",
+            "title": "KPAI Sebut 680 Ribu Siswa di Papua Tidak Akses Internet"
+        },
+        {
+            "link": "https://kompas.id/baca/olahraga/2020/06/17/liga-kompas-u-14-zahra-buktikan-sepak-bola-juga-olahraga-kaum-hawa/?utm_source=external_kompascom&utm_medium=berita_terkini&utm_campaign=kompascom",
+            "source": "Kompas",
+            "title": "Zahra Buktikan Sepak Bola Juga Milik Kaum Hawa"
+        },
+        {
+            "link": "https://www.bolasport.com/read/312199441/susahnya-jadi-pesepak-bola-putri-zahra-musdalifah-pernah-nangis-saat-bertanding",
+            "source": "Kompas",
+            "title": "Susahnya Jadi Pesepak Bola Putri Zahra Musdalifah Pernah Nangis saat Bertanding"
+        },
+        {
+            "link": "https://bola.kompas.com/read/2020/06/17/03285488/hasil-werder-bremen-vs-bayern-muenchen-die-roten-kunci-gelar-juara-bundesliga",
+            "source": "Kompas",
+            "title": "Hasil Werder Bremen Vs Bayern Muenchen Die Roten Kunci Gelar Juara Bundesliga"
+        },
+        {
+            "link": "https://www.kompas.tv/article/87432/kemendikbud-sekolah-dibuka-hanya-di-85-kota-kabupaten",
+            "source": "Kompas",
+            "title": "Kemendikbud Sekolah Dibuka Hanya di 85 Kota/Kabupaten"
+        },
+        {
+            "link": "https://www.sonora.id/read/422198211/tes-kepribadian-dari-4-wanita-ini-mana-yang-paling-tua-pilihanmu-ungkap-sifatmu?utm_source=kompas.com&utm_medium=referral&utm_campaign=kompas.com%20homepage",
+            "source": "Kompas",
+            "title": " Tes Kepribadian Dari 4 Wanita Ini Mana yang Paling Tua Pilihanmu Ungkap Sifatmu "
+        },
+        {
+            "link": "https://www.kompas.tv/article/87431/sorotan-kendala-belajar-online-di-daerah-terpencil",
+            "source": "Kompas",
+            "title": "Sorotan Kendala Belajar Online di Daerah Terpencil"
+        },
+        {
+            "link": "https://www.bolasport.com/read/312199424/demi-timnas-spanyol-gerard-pique-rela-wajahnya-sampai-terluka",
+            "source": "Kompas",
+            "title": "Demi Timnas Spanyol Gerard Pique Rela Wajahnya Sampai Terluka"
+        },
+        {
+            "link": "https://kompas.id/baca/dikbud/2020/06/17/komodifikasi-pendidikan-tinggi-di-ruu-cipta-kerja/?utm_source=external_kompascom&utm_medium=berita_terkini&utm_campaign=kompascom",
+            "source": "Kompas",
+            "title": "Komodifikasi Pendidikan Tinggi di RUU Cipta Kerja"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/internasional/20200617025814-134-514091/trump-teken-surat-perintah-untuk-kurangi-kekerasan-polisi",
+            "source": "CNN Indonesia",
+            "title": "Trump Teken Surat Perintah untuk Kurangi Kekerasan Polisi"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/nasional/20200616195942-32-514026/dpr-minta-sekolah-diawasi-jangan-sampai-jadi-klaster-baru",
+            "source": "CNN Indonesia",
+            "title": "DPR Minta Sekolah Diawasi Jangan Sampai Jadi Klaster Baru"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/olahraga/20200617043619-142-514094/hasil-la-liga-spanyol-messi-cetak-gol-barcelona-menang",
+            "source": "CNN Indonesia",
+            "title": "Hasil La Liga Spanyol Messi Cetak Gol Barcelona Menang"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/internasional/20200617042440-113-514093/bentrok-dengan-china-di-perbatasan-20-tentara-india-tewas",
+            "source": "CNN Indonesia",
+            "title": "Bentrok dengan China di Perbatasan 20 Tentara India Tewas"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/nasional/20200616201047-20-514041/kemendikbud-minta-sekolah-cek-kesiapan-sendiri-sebelum-dibuka",
+            "source": "CNN Indonesia",
+            "title": "Kemendikbud Minta Sekolah Cek Kesiapan Sendiri Sebelum Dibuka"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/olahraga/20200616225454-142-514080/final-coppa-italia-mimpi-sarri-menang-di-tanah-sendiri",
+            "source": "CNN Indonesia",
+            "title": "Final Coppa Italia Mimpi Sarri Menang di Tanah Sendiri"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/nasional/20200616153225-32-513901/bawaslu-ancam-coret-petahana-mutasi-asn-jelang-pilkada-2020",
+            "source": "CNN Indonesia",
+            "title": "Bawaslu Ancam Coret Petahana Mutasi ASN Jelang Pilkada 2020"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/teknologi/20200616180539-185-513980/juara-di-dunia-ponsel-huawei-di-ri-berbanding-terbalik",
+            "source": "CNN Indonesia",
+            "title": "Juara di Dunia Ponsel Huawei di RI Berbanding Terbalik"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/internasional/20200616131836-134-513822/mendikbud-brasil-didenda-karena-tak-pakai-masker-saat-demo",
+            "source": "CNN Indonesia",
+            "title": "Mendikbud Brasil Didenda karena Tak Pakai Masker saat Demo"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/internasional/20200616134630-139-513830/video-perbatasan-jerman-dibuka-kembali-bandara-munich-ramai",
+            "source": "CNN Indonesia",
+            "title": "VIDEO Perbatasan Jerman Dibuka Kembali Bandara Munich Ramai"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/internasional/20200616134630-139-513830/video-perbatasan-jerman-dibuka-kembali-bandara-munich-ramai",
+            "source": "CNN Indonesia",
+            "title": "VIDEO Perbatasan Jerman Dibuka Kembali Bandara Munich Ramai"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/tv/20200616234656-410-514085/video-menakar-panduan-belajar-kemendikbud",
+            "source": "CNN Indonesia",
+            "title": "VIDEO Menakar Panduan Belajar Kemendikbud"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/olahraga/20200617031511-142-514092/bayern-munchen-juara-bundesliga-jerman",
+            "source": "CNN Indonesia",
+            "title": "Bayern Munchen Juara Bundesliga Jerman"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/nasional/20200616203251-20-514050/buang-sampah-di-rumah-kosong-warga-banten-temukan-mortir",
+            "source": "CNN Indonesia",
+            "title": "Buang Sampah di Rumah Kosong Warga Banten Temukan Mortir"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/olahraga/20200617021823-178-514090/khabib-bakal-buat-pengumuman-soal-masa-depan-di-ufc",
+            "source": "CNN Indonesia",
+            "title": "Khabib Bakal Buat Pengumuman Soal Masa Depan di UFC"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/nasional/20200616125237-20-513823/bp2mi-ungkap-oknum-kekuasaan-pengusaha-di-balik-pmi-ilegal",
+            "source": "CNN Indonesia",
+            "title": "BP2MI Ungkap Oknum Kekuasaan-Pengusaha di Balik PMI Ilegal"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/nasional/20200616185307-12-514004/lpsk-beri-perlindungan-14-abk-korban-perbudakan-kapal-china",
+            "source": "CNN Indonesia",
+            "title": "LPSK Beri Perlindungan 14 ABK Korban Perbudakan Kapal China"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/nasional/20200616215157-12-514075/kasus-penggelapan-mobil-di-batam-4-orang-ditangkap-lagi",
+            "source": "CNN Indonesia",
+            "title": "Kasus Penggelapan Mobil di Batam 4 Orang Ditangkap Lagi"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/olahraga/20200616164412-142-513944/aubameyang-berpotensi-masuk-jajaran-bomber-elite-liga-inggris",
+            "source": "CNN Indonesia",
+            "title": "Aubameyang Berpotensi Masuk Jajaran Bomber Elite Liga Inggris"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/nasional/20200616182444-20-513990/guru-diminta-atur-jadwal-murid-yang-tak-dizinkan-ortu-sekolah",
+            "source": "CNN Indonesia",
+            "title": "Guru Diminta Atur Jadwal Murid yang Tak Dizinkan Ortu Sekolah"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/teknologi/20200616183246-185-513992/ponsel-samsung-ajukan-hak-paten-desain-6-kamera-belakang",
+            "source": "CNN Indonesia",
+            "title": "Ponsel Samsung Ajukan Hak Paten Desain 6 Kamera Belakang"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/internasional/20200616134630-139-513830/video-perbatasan-jerman-dibuka-kembali-bandara-munich-ramai",
+            "source": "CNN Indonesia",
+            "title": "VIDEO Perbatasan Jerman Dibuka Kembali Bandara Munich Ramai"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/olahraga/20200616231244-142-514082/menpora-izin-lapangan-latihan-timnas-indonesia-di-ppk-gbk",
+            "source": "CNN Indonesia",
+            "title": "Menpora Izin Lapangan Latihan Timnas Indonesia di PPK GBK"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/nasional/20200616221426-12-514076/polisi-kepri-tahan-tersangka-ujaran-kebencian-pada-jokowi",
+            "source": "CNN Indonesia",
+            "title": "Polisi Kepri Tahan Tersangka Ujaran Kebencian pada Jokowi"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/ekonomi/20200616131257-532-513819/bi-sebut-laju-penjualan-eceran-minus-169-persen-pada-april",
+            "source": "CNN Indonesia",
+            "title": "BI Sebut Laju Penjualan Eceran Minus 169 Persen pada April"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/olahraga/20200616213339-142-514072/guardiola-man-city-tak-siap-hadapi-jadwal-padat-liga-inggris",
+            "source": "CNN Indonesia",
+            "title": "Guardiola Man City Tak Siap Hadapi Jadwal Padat Liga Inggris"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/olahraga/20191126122309-541-451553/ngadu-bola-antar-kampung",
+            "source": "CNN Indonesia",
+            "title": "Ngadu Bola Antar-Kampung"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/hiburan/20190928103409-543-434914/babad-pentas-srimulat",
+            "source": "CNN Indonesia",
+            "title": "Babad Pentas Srimulat"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/teknologi/20200616180539-185-513980/juara-di-dunia-ponsel-huawei-di-ri-berbanding-terbalik",
+            "source": "CNN Indonesia",
+            "title": "Juara di Dunia Ponsel Huawei di RI Berbanding Terbalik"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/internasional/20200617042440-113-514093/bentrok-dengan-china-di-perbatasan-20-tentara-india-tewas",
+            "source": "CNN Indonesia",
+            "title": "Bentrok dengan China di Perbatasan 20 Tentara India Tewas"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/olahraga/20200617031511-142-514092/bayern-munchen-juara-bundesliga-jerman",
+            "source": "CNN Indonesia",
+            "title": "Bayern Munchen Juara Bundesliga Jerman"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/nasional/20200616153225-32-513901/bawaslu-ancam-coret-petahana-mutasi-asn-jelang-pilkada-2020",
+            "source": "CNN Indonesia",
+            "title": "Bawaslu Ancam Coret Petahana Mutasi ASN Jelang Pilkada 2020"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/nasional/20200616201047-20-514041/kemendikbud-minta-sekolah-cek-kesiapan-sendiri-sebelum-dibuka",
+            "source": "CNN Indonesia",
+            "title": "Kemendikbud Minta Sekolah Cek Kesiapan Sendiri Sebelum Dibuka"
+        },
+        {
+            "link": "https://www.cnbcindonesia.com/tech/20200616204505-37-165881/uang-sampai-saham-ini-deretan-pesangon-buat-karyawan-grab",
+            "source": "CNN Indonesia",
+            "title": " Uang Sampai Saham Ini Deretan Pesangon Buat Karyawan Grab"
+        },
+        {
+            "link": "https://www.cnbcindonesia.com/news/20200616202533-4-165880/ancaman-krisis-pangan-14-juta-ha-gambut-disulap-jadi-sawah",
+            "source": "CNN Indonesia",
+            "title": " Ancaman Krisis Pangan 14 Juta Ha Gambut Disulap Jadi Sawah"
+        },
+        {
+            "link": "https://www.cnbcindonesia.com/market/20200616204630-17-165879/data-ritel-as-ciamik-dow-jones-dibuka-terbang-828-poin",
+            "source": "CNN Indonesia",
+            "title": " Data Ritel AS Ciamik Dow Jones Dibuka Terbang 828 Poin"
+        },
+        {
+            "link": "https://news.detik.com/berita/d-5056493/dalih-bisikan-gaib-bikin-pria-bacok-bocah-hingga-kepala-terpisah",
+            "source": "CNN Indonesia",
+            "title": "Dalih Bisikan Gaib Bikin Pria Bacok Bocah hingga Kepala Terpisah"
+        },
+        {
+            "link": "https://news.detik.com/berita/d-5056491/pabrik-cat-di-tangerang-kebakaran-14-unit-damkar-dikerahkan",
+            "source": "CNN Indonesia",
+            "title": "Pabrik Cat di Tangerang Kebakaran 14 Unit Damkar Dikerahkan"
+        },
+        {
+            "link": "https://news.detik.com/berita/d-5056485/gempa-m-31-terjadi-di-sabang-aceh",
+            "source": "CNN Indonesia",
+            "title": "Gempa M 31 Terjadi di Sabang Aceh"
+        }
+    ],
+    "words": {
+        "": 1,
+        "-": 1,
+        "1": 5,
+        "10": 1,
+        "104": 3,
+        "13": 1,
+        "14": 5,
+        "169": 3,
+        "2-0": 1,
+        "20": 1,
+        "20192020": 1,
+        "2020": 4,
+        "3": 3,
+        "31": 1,
+        "3607": 4,
+        "4": 5,
+        "43": 2,
+        "5": 1,
+        "6": 4,
+        "680": 1,
+        "828": 5,
+        "85": 1,
+        "957": 3,
+        "ABK": 1,
+        "APD": 6,
+        "AS": 7,
+        "ASN": 5,
+        "Aceh": 6,
+        "Ada": 6,
+        "Ajukan": 3,
+        "Akan": 4,
+        "Akses": 1,
+        "Alamat": 1,
+        "Ali": 1,
+        "Amankan": 1,
+        "Anak": 1,
+        "Anak-anak": 1,
+        "Anak-anaknya": 1,
+        "Ancam": 1,
+        "Ancaman": 5,
+        "Ansu": 1,
+        "Antar-Kampung": 4,
+        "Antaranya": 1,
+        "Apapun": 1,
+        "April": 3,
+        "Arti": 1,
+        "Atur": 4,
+        "Aubameyang": 2,
+        "BBM": 5,
+        "BI": 3,
+        "BP2MI": 1,
+        "BPH": 5,
+        "Babad": 4,
+        "Bacok": 1,
+        "Bagaimana": 3,
+        "Bahaya": 3,
+        "Bakal": 5,
+        "Balik": 1,
+        "Ban": 1,
+        "Bandara": 3,
+        "Bansos": 5,
+        "Banten": 1,
+        "Barat": 4,
+        "Barca": 1,
+        "Barcelona": 6,
+        "Baru": 6,
+        "Basket": 1,
+        "Batam": 2,
+        "Bawaslu": 1,
+        "Bayer": 2,
+        "Bayern": 4,
+        "Bebas": 4,
+        "Bekasi": 5,
+        "Belajar": 4,
+        "Belakang": 3,
+        "Belasan": 1,
+        "Belum": 4,
+        "Bengkulu": 4,
+        "Bentrok": 3,
+        "Berbanding": 1,
+        "Bercinta": 6,
+        "Bergerak": 4,
+        "Beri": 4,
+        "Bermain": 1,
+        "Berpotensi": 5,
+        "Bertambah": 3,
+        "Bertanding": 1,
+        "Besar": 4,
+        "Besok": 4,
+        "Biasa": 1,
+        "Bikin": 1,
+        "Bilang": 1,
+        "Bintang": 1,
+        "Bisa": 4,
+        "Bisikan": 1,
+        "Blaugrana": 1,
+        "Blokade": 4,
+        "Blora": 1,
+        "Bocah": 1,
+        "Bola": 4,
+        "Boleh": 1,
+        "Bomber": 2,
+        "Brasil": 1,
+        "Bremen": 4,
+        "Buang": 1,
+        "Buat": 8,
+        "Buka": 4,
+        "Buka-bukaan": 1,
+        "Buktikan": 1,
+        "Bunda": 4,
+        "Bundesliga": 1,
+        "Buzzer": 1,
+        "COVID-19": 1,
+        "Cabor": 1,
+        "Cara": 1,
+        "Cat": 1,
+        "Cek": 1,
+        "Cetak": 1,
+        "China": 1,
+        "Ciamik": 5,
+        "Cipta": 1,
+        "City": 5,
+        "Code": 4,
+        "Coppa": 1,
+        "Coret": 1,
+        "Corona": 13,
+        "Covid-19": 7,
+        "DKI": 1,
+        "DPR": 5,
+        "Daerah": 1,
+        "Dalih": 1,
+        "Damkar": 1,
+        "Dari": 1,
+        "Data": 5,
+        "Demi": 1,
+        "Demo": 3,
+        "Depan": 1,
+        "Deretan": 5,
+        "Desa": 1,
+        "Desahan": 1,
+        "Desain": 3,
+        "Dia": 1,
+        "Diawasi": 1,
+        "Dibatasi": 1,
+        "Dibuat": 1,
+        "Dibuka": 5,
+        "Dicabut": 4,
+        "Didenda": 1,
+        "Die": 1,
+        "Diekspor": 1,
+        "Diisolasi": 3,
+        "Dikerahkan": 1,
+        "Dilaporkan": 1,
+        "Dilarang": 3,
+        "Diledakkan": 4,
+        "Dilonggarkan": 4,
+        "Diluncurkan": 4,
+        "Diminta": 3,
+        "Diperhatikan": 4,
+        "Diserang": 1,
+        "Disulap": 5,
+        "Ditampar": 3,
+        "Ditangkap": 2,
+        "Dizinkan": 3,
+        "Dolar": 5,
+        "Dow": 5,
+        "Dulu": 1,
+        "Dunia": 4,
+        "Eceran": 3,
+        "Eks": 1,
+        "Ekspor": 6,
+        "El": 1,
+        "Elite": 2,
+        "Emas": 4,
+        "Emon": 1,
+        "Era": 1,
+        "Fati-Messi": 1,
+        "Final": 1,
+        "GBK": 3,
+        "GRATIS": 4,
+        "Gaib": 1,
+        "Gambut": 5,
+        "Gara-gara": 1,
+        "Gas": 4,
+        "Gattuso": 1,
+        "Gelar": 5,
+        "Gempa": 2,
+        "Geramnya": 1,
+        "Gerard": 1,
+        "Gerrard": 4,
+        "Gokil": 1,
+        "Gol": 4,
+        "Gosip": 3,
+        "Grab": 5,
+        "Guardiola": 4,
+        "Guru": 3,
+        "HUT": 1,
+        "Ha": 5,
+        "Hadapi": 4,
+        "Hak": 4,
+        "Hal": 4,
+        "Hanya": 1,
+        "Harga": 6,
+        "Harus": 4,
+        "Hasil": 1,
+        "Hati-hati": 3,
+        "Havertz": 2,
+        "Hawa": 1,
+        "Heboh": 1,
+        "Himalaya": 1,
+        "Hoax": 4,
+        "Huawei": 1,
+        "Ilegal": 1,
+        "India": 4,
+        "Indonesia": 7,
+        "Inggris": 7,
+        "Ini": 8,
+        "Internet": 4,
+        "Isolasi": 1,
+        "Istri": 3,
+        "Italia": 1,
+        "Izin": 3,
+        "Jadi": 6,
+        "Jadwal": 4,
+        "Jajaran": 2,
+        "Jakarta": 7,
+        "Jalan": 4,
+        "Jangan": 1,
+        "Januari-Mei": 4,
+        "Jawab": 4,
+        "Jelang": 1,
+        "Jemput": 1,
+        "Jerman": 3,
+        "Jika": 1,
+        "Jokowi": 5,
+        "Jones": 5,
+        "Jose": 4,
+        "Juara": 1,
+        "Juergen": 1,
+        "Juga": 4,
+        "Jungkit-jungkit": 1,
+        "Juta": 6,
+        "KPAI": 1,
+        "Kai": 2,
+        "Kalbar": 5,
+        "Kamera": 3,
+        "Kantor": 7,
+        "Kapal": 1,
+        "Kapan": 4,
+        "Karyawan": 5,
+        "Kasus": 7,
+        "Kaum": 1,
+        "Ke-30": 1,
+        "Kebagian": 4,
+        "Kebakaran": 1,
+        "Kebencian": 3,
+        "Kecuali": 3,
+        "Kekerasan": 1,
+        "Kekuasaan-Pengusaha": 1,
+        "Kembali": 4,
+        "Kemenangan": 1,
+        "Kemendikbud": 3,
+        "Kendala": 1,
+        "Kendorkan": 1,
+        "Kepala": 4,
+        "Kepri": 4,
+        "Kepribadian": 1,
+        "Kerja": 1,
+        "Kesehatan": 4,
+        "Kesiapan": 1,
+        "Khabib": 1,
+        "Khawatir": 1,
+        "Kini": 5,
+        "Klasemen": 1,
+        "Klaster": 5,
+        "Klopp": 1,
+        "Kominfo": 1,
+        "Komodifikasi": 1,
+        "Kompas": 4,
+        "Kopi": 4,
+        "Korban": 4,
+        "Korona": 1,
+        "Korsel": 7,
+        "Korut": 7,
+        "Kosong": 1,
+        "Kota/Kabupaten": 1,
+        "Krisis": 5,
+        "Kritik": 1,
+        "Kucurkan": 4,
+        "Kunci": 1,
+        "Kurangi": 1,
+        "Kyle": 3,
+        "LPSK": 1,
+        "La": 1,
+        "Lagi": 4,
+        "Laju": 3,
+        "Lanjut": 1,
+        "Lapangan": 3,
+        "Larangan": 6,
+        "Latihan": 3,
+        "Lawan": 1,
+        "Lebih": 6,
+        "Leganes": 5,
+        "Leher": 3,
+        "Lepas": 2,
+        "Leverkusen": 2,
+        "Lewat": 1,
+        "Liga": 4,
+        "Liverpool": 5,
+        "Lockdown": 4,
+        "Lozano": 1,
+        "M": 2,
+        "Mal": 5,
+        "Man": 5,
+        "Mana": 1,
+        "Mandiri": 1,
+        "Masa": 4,
+        "Masker": 6,
+        "Masuk": 5,
+        "Maya": 4,
+        "Melawan": 4,
+        "Meluncur": 1,
+        "Menakar": 3,
+        "Menang": 1,
+        "Menangis": 1,
+        "Menangkan": 1,
+        "Mendikbud": 1,
+        "Mengaliri": 4,
+        "Menikmati": 1,
+        "Meningkat": 4,
+        "Menjaga": 4,
+        "Menpora": 3,
+        "Messi": 5,
+        "Migas": 5,
+        "Mike": 1,
+        "Milik": 1,
+        "Mimpi": 1,
+        "Minta": 7,
+        "Minus": 3,
+        "Mobil": 2,
+        "Moenchengladbach": 1,
+        "Mortir": 1,
+        "MotoGP": 3,
+        "Mourinho": 4,
+        "Muenchen": 4,
+        "Muhammad": 1,
+        "Muka": 4,
+        "Munchen": 1,
+        "Munich": 3,
+        "Murah": 4,
+        "Murid": 3,
+        "Musdalifah": 1,
+        "Mutasi": 1,
+        "NTB": 2,
+        "Nangis": 1,
+        "Nasib": 3,
+        "Nasional": 4,
+        "Negara": 4,
+        "New": 4,
+        "Ngadu": 4,
+        "Normal": 5,
+        "Novel": 6,
+        "Oke": 1,
+        "Oknum": 1,
+        "Online": 1,
+        "Orang": 4,
+        "Ortu": 3,
+        "PAUD": 1,
+        "PMI": 1,
+        "PPK": 3,
+        "Pabrik": 1,
+        "Padat": 4,
+        "Paham": 4,
+        "Pakai": 4,
+        "Paksa": 1,
+        "Paling": 4,
+        "Pandemi": 1,
+        "Panduan": 4,
+        "Pangan": 5,
+        "Papua": 4,
+        "Paripurna": 1,
+        "Pasien": 3,
+        "Paten": 3,
+        "Patung": 1,
+        "Paul": 1,
+        "Payment": 4,
+        "Pebalap": 3,
+        "Pelumas": 4,
+        "Pemerintah": 5,
+        "Penalti": 1,
+        "Pendidikan": 1,
+        "Pengelola": 5,
+        "Penggelapan": 2,
+        "Penghubung": 7,
+        "Pengumuman": 1,
+        "Penjualan": 3,
+        "Pentas": 4,
+        "Perang": 1,
+        "Perbatasan": 3,
+        "Perbudakan": 1,
+        "Perekonomian": 4,
+        "Perintah": 1,
+        "Perlindungan": 1,
+        "Perlu": 5,
+        "Pernah": 4,
+        "Persen": 4,
+        "Persib": 1,
+        "Pesan": 4,
+        "Pesangon": 5,
+        "Pesepak": 1,
+        "Peserta": 1,
+        "Petahana": 1,
+        "Pilih": 4,
+        "Pilihanmu": 1,
+        "Pilkada": 5,
+        "Pique": 1,
+        "Pogba": 1,
+        "Poin": 5,
+        "Polisi": 5,
+        "Ponsel": 4,
+        "Positif": 5,
+        "Pria": 4,
+        "Pulau": 5,
+        "Punya": 3,
+        "Putri": 1,
+        "QR": 4,
+        "Quartararo": 3,
+        "RI": 4,
+        "RUU": 9,
+        "Ramai": 3,
+        "Rapat": 1,
+        "Ratusan": 4,
+        "Rela": 1,
+        "Resmi": 5,
+        "Resmikan": 5,
+        "Ribu": 4,
+        "Ritel": 5,
+        "Roten": 1,
+        "Rp": 4,
+        "Rumah": 1,
+        "Rumus": 4,
+        "Saat": 4,
+        "Sabang": 1,
+        "Saham": 5,
+        "Sampah": 1,
+        "Sampai": 6,
+        "Samsung": 3,
+        "Sarri": 1,
+        "Satu": 4,
+        "Sawah": 5,
+        "Saya": 1,
+        "Scan": 4,
+        "Sebanyak": 3,
+        "Sebelum": 4,
+        "Sebut": 4,
+        "Sedang": 1,
+        "Segelas": 4,
+        "Sekolah": 5,
+        "Semakin": 4,
+        "Sendiri": 1,
+        "Sepak": 1,
+        "Serangan": 1,
+        "Sesi": 1,
+        "Siap": 5,
+        "Siapa": 1,
+        "Sifatmu": 1,
+        "Siswa": 1,
+        "Soal": 6,
+        "Sorotan": 1,
+        "Spanyol": 1,
+        "Srimulat": 4,
+        "Suami": 3,
+        "Suara": 4,
+        "Sudah": 5,
+        "Sumbawa": 2,
+        "Sumut": 3,
+        "Sumut-Sumbar": 4,
+        "Surabaya": 1,
+        "Surat": 4,
+        "Susahnya": 1,
+        "Tahan": 4,
+        "Tahun": 1,
+        "Tak": 10,
+        "Tampil": 1,
+        "Tanah": 1,
+        "Tangerang": 1,
+        "Tanggung": 4,
+        "Target": 1,
+        "Tarik": 4,
+        "Tatap": 4,
+        "Tekan": 3,
+        "Teken": 1,
+        "Teknik": 3,
+        "Tembus": 1,
+        "Temukan": 1,
+        "Tenang": 4,
+        "Tengah": 4,
+        "Tentara": 1,
+        "Terbakar": 1,
+        "Terbalik": 1,
+        "Terbang": 6,
+        "Terjadi": 2,
+        "Terluka": 3,
+        "Terpencil": 1,
+        "Terpisah": 1,
+        "Tersangka": 3,
+        "Terus": 1,
+        "Tes": 4,
+        "Tetangga": 3,
+        "Tewas": 6,
+        "Tewaskan": 1,
+        "Tidak": 1,
+        "Timnas": 5,
+        "Tinggi": 1,
+        "Tipis": 1,
+        "Triliun": 5,
+        "Triliunan": 4,
+        "Trump": 4,
+        "Tua": 1,
+        "Tunda": 5,
+        "Tyson": 4,
+        "UFC": 1,
+        "US": 4,
+        "Uang": 5,
+        "Udara": 1,
+        "Ujaran": 3,
+        "Ungkap": 5,
+        "Unit": 1,
+        "Usir": 1,
+        "Utang": 4,
+        "VIDEO": 9,
+        "Vaksin": 6,
+        "Variatif": 4,
+        "Virus": 6,
+        "Vs": 6,
+        "Wajahnya": 1,
+        "Wajib": 4,
+        "Walker": 3,
+        "Wanita": 1,
+        "Warga": 8,
+        "Warnai": 1,
+        "Werder": 4,
+        "Whatsapp": 4,
+        "Yaman": 1,
+        "Zahra": 1,
+        "atau": 1,
+        "dalam": 1,
+        "dan": 1,
+        "dari": 1,
+        "dengan": 1,
+        "di": 1,
+        "ePaper": 1,
+        "hingga": 1,
+        "karena": 1,
+        "ke": 1,
+        "pada": 1,
+        "pun": 1,
+        "saat": 1,
+        "untuk": 1,
+        "yang": 1
+    }
+}

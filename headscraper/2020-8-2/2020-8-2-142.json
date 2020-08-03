@@ -1,0 +1,681 @@
+{
+    "covid": [
+        {
+            "link": "https://www.cnnindonesia.com/nasional/20200802132207-20-531339/gubernur-positif-covid-19-pemprov-kepri-berlakukan-lagi-wfh",
+            "source": "CNN Indonesia",
+            "title": "Gubernur Positif Covid-19 Pemprov Kepri Berlakukan Lagi WFH"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/gaya-hidup/20200313191641-525-483285/rumus-melawan-virus",
+            "source": "CNN Indonesia",
+            "title": "Rumus Melawan Virus"
+        },
+        {
+            "link": "https://www.cnbcindonesia.com/market/20200802121753-17-176916/china-pulih-dari-corona-harga-cpo-reli-kencang-di-bulan-juli",
+            "source": "CNN Indonesia",
+            "title": " China Pulih dari Corona Harga CPO Reli Kencang di Bulan Juli"
+        },
+        {
+            "link": "https://www.cnbcindonesia.com/market/20200802121753-17-176916/china-pulih-dari-corona-harga-cpo-reli-kencang-di-bulan-juli",
+            "source": "CNBC Indonesia",
+            "title": "China Pulih dari Corona Harga CPO Reli Kencang di Bulan Juli"
+        },
+        {
+            "link": "https://www.cnbcindonesia.com/news/20200802110538-7-176905/intip-lempar-jumrah-di-tengah-corona-pakai-batu-khusus",
+            "source": "CNBC Indonesia",
+            "title": "Intip Lempar Jumrah di Tengah Corona Pakai Batu Khusus"
+        },
+        {
+            "link": "https://hot.detik.com/celeb/d-5117254/anji-trending-karena-ajak-orang-yang-klaim-temukan-antibodi-covid-19?tag_from=wp_nhl_3",
+            "source": "Detik",
+            "title": " Anji Trending karena Ajak Orang yang Klaim Temukan Antibodi COVID-19"
+        },
+        {
+            "link": "https://travel.detik.com/fototravel/d-5117239/kebun-binatang-di-amerika-bertahan-dari-krisis-imbas-pandemi?tag_from=wp_nhl_20",
+            "source": "Detik",
+            "title": " Kebun Binatang di Amerika Bertahan dari Krisis Imbas Pandemi"
+        },
+        {
+            "link": "https://finance.detik.com/berita-ekonomi-bisnis/d-5117193/kemilau-harga-emas-di-tengah-pandemi-cetak-rekor-berkali-kali?tag_from=wp_nhl_24",
+            "source": "Detik",
+            "title": " Kemilau Harga Emas di Tengah Pandemi Cetak Rekor Berkali-kali"
+        },
+        {
+            "link": "https://news.detik.com/berita/d-5117231/bos-restoran-di-bogor-meninggal-karena-corona-sebelumnya-gelar-kawinan?tag_from=wp_nhl_30",
+            "source": "Detik",
+            "title": " Bos Restoran di Bogor Meninggal karena Corona Sebelumnya Gelar Kawinan"
+        },
+        {
+            "link": "https://www.kompas.id/baca/nusantara/2020/08/02/terus-menyebar-di-keluarga-pekerja-petrochina-bayi-dan-anak-positif-covid-19/?utm_source=external_kompascom&utm_medium=berita_terkini&utm_campaign=kompascom",
+            "source": "Kompas",
+            "title": "Terus Menyebar di Keluarga Pekerja Petrochina Bayi dan Anak Positif Covid-19"
+        },
+        {
+            "link": "https://nasional.kompas.com/read/2020/08/02/13360661/update-2-agustus-rsd-wisma-atlet-rawat-1421-pasien-positif-covid-19",
+            "source": "Kompas",
+            "title": "UPDATE 2 Agustus  RSD Wisma Atlet Rawat 1421 Pasien Positif Covid-19"
+        },
+        {
+            "link": "https://regional.kompas.com/read/2020/08/02/13271291/pria-minum-darah-sapi-kurban-yang-disembelih-depresi-ditinggal-istri-tak",
+            "source": "Kompas",
+            "title": "Pria Minum Darah Sapi Kurban yang Disembelih Depresi Ditinggal Istri Tak Terkait Corona"
+        },
+        {
+            "link": "https://www.kompas.id/baca/internasional/2020/08/02/beijing-terjunkan-tim-medis-covid-19-ke-hong-kong/?utm_source=external_kompascom&utm_medium=berita_terkini&utm_campaign=kompascom",
+            "source": "Kompas",
+            "title": "Beijing Terjunkan Tim Medis Covid-19 ke Hong Kong"
+        }
+    ],
+    "general": [
+        {
+            "link": "https://www.cnnindonesia.com/olahraga/20200802125206-142-531337/kontroversi-wasit-anthony-taylor-usik-pesta-arsenal",
+            "source": "CNN Indonesia",
+            "title": "Kontroversi Wasit Anthony Taylor Usik Pesta Arsenal"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/nasional/20200802133244-20-531342/ike-muti-minta-maaf-pemprov-dki-anggap-masalah-selesai",
+            "source": "CNN Indonesia",
+            "title": "Ike Muti Minta Maaf Pemprov DKI Anggap Masalah Selesai"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/teknologi/20200731200408-185-531091/tips-memilih-power-bank",
+            "source": "CNN Indonesia",
+            "title": "Tips Memilih Power Bank"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/gaya-hidup/20200730154316-284-530708/aglonema-pilihan-tanaman-hias-tepat-untuk-bersihkan-udara",
+            "source": "CNN Indonesia",
+            "title": "Aglonema Pilihan Tanaman Hias Tepat untuk Bersihkan Udara"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/nasional/20200802124432-20-531334/unand-akan-bantu-lab-tes-pcr-untuk-jatim-dan-sulsel",
+            "source": "CNN Indonesia",
+            "title": "Unand Akan Bantu Lab Tes PCR untuk Jatim dan Sulsel"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/olahraga/20200802124655-156-531335/marquez-bakal-bermasalah-di-motogp-ceko",
+            "source": "CNN Indonesia",
+            "title": "Marquez Bakal Bermasalah di MotoGP Ceko"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/nasional/20200802124739-20-531336/bmkg-9-kabupaten-di-ntt-berstatus-waspada-kekeringan",
+            "source": "CNN Indonesia",
+            "title": "BMKG 9 Kabupaten di NTT Berstatus Waspada Kekeringan"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/gaya-hidup/20200801130129-269-531158/pahatan-nostalgia-jason-decaires-taylor-di-dasar-samudra",
+            "source": "CNN Indonesia",
+            "title": "Pahatan Nostalgia Jason deCaires Taylor di Dasar Samudra"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/ekonomi/20200801144011-96-531192/alasan-harga-emas-melesat-rp1-juta-di-tengah-ancaman-resesi",
+            "source": "CNN Indonesia",
+            "title": "Alasan Harga Emas Melesat Rp1 Juta di Tengah Ancaman Resesi"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/tv/20200802133225-405-531340/video-tips-mengolah-menyimpan-daging",
+            "source": "CNN Indonesia",
+            "title": "VIDEO Tips Mengolah  Menyimpan Daging"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/internasional/20200802110114-124-531314/video-jemaah-haji-lempar-jumrah-gunakan-kerikil-steril",
+            "source": "CNN Indonesia",
+            "title": "VIDEO Jemaah Haji Lempar Jumrah Gunakan Kerikil Steril"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/ekonomi/20200801144011-96-531192/alasan-harga-emas-melesat-rp1-juta-di-tengah-ancaman-resesi",
+            "source": "CNN Indonesia",
+            "title": "Alasan Harga Emas Melesat Rp1 Juta di Tengah Ancaman Resesi"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/hiburan/20200802122040-220-531332/iflix-belum-bayar-lisensi-lebih-dari-rp9-miliar",
+            "source": "CNN Indonesia",
+            "title": "Iflix Belum Bayar Lisensi Lebih Dari Rp9 Miliar"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/nasional/20200802121912-20-531331/arus-balik-iduladha-polisi-terapkan-contraflow-tol-cikampek",
+            "source": "CNN Indonesia",
+            "title": "Arus Balik Iduladha Polisi Terapkan Contraflow Tol Cikampek"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/olahraga/20200802115956-144-531322/foto-juventus-rayakan-gelar-scudetto-ke-36",
+            "source": "CNN Indonesia",
+            "title": "FOTO Juventus Rayakan Gelar Scudetto Ke-36"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/nasional/20200802123237-20-531333/daftar-armada-tambahan-transjakarta-di-kawasan-ganjil-genap",
+            "source": "CNN Indonesia",
+            "title": "Daftar Armada Tambahan Transjakarta di Kawasan Ganjil Genap"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/hiburan/20200731235413-220-531101/kisah-hidup-sulli-bakal-dibuat-dokumenter",
+            "source": "CNN Indonesia",
+            "title": "Kisah Hidup Sulli Bakal Dibuat Dokumenter"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/ekonomi/20200802120546-532-531321/data-ganda-yogyakarta-kembalikan-dana-bansos-ke-kas-daerah",
+            "source": "CNN Indonesia",
+            "title": "Data Ganda Yogyakarta Kembalikan Dana Bansos ke Kas Daerah"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/teknologi/20200801225535-389-531256/solusi-radiator-daihatsu-gran-max-bocor",
+            "source": "CNN Indonesia",
+            "title": "Solusi Radiator Daihatsu Gran Max Bocor"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/nasional/20200802111916-20-531316/dishub-dki-berpeluang-terapkan-ganjil-genap-sepeda-motor",
+            "source": "CNN Indonesia",
+            "title": "Dishub DKI Berpeluang Terapkan Ganjil Genap Sepeda Motor"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/olahraga/20200802114650-142-531318/sarri-beberkan-penyebab-juventus-dibungkam-roma",
+            "source": "CNN Indonesia",
+            "title": "Sarri Beberkan Penyebab Juventus Dibungkam Roma"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/gaya-hidup/20200722080210-277-527438/tampon-cara-unik-sistem-penyiraman-otomatis-tanaman-hias",
+            "source": "CNN Indonesia",
+            "title": "Tampon Cara Unik Sistem Penyiraman Otomatis Tanaman Hias"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/internasional/20200802110114-124-531314/video-jemaah-haji-lempar-jumrah-gunakan-kerikil-steril",
+            "source": "CNN Indonesia",
+            "title": "VIDEO Jemaah Haji Lempar Jumrah Gunakan Kerikil Steril"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/nasional/20200802111905-20-531315/arus-balik-polisi-siapkan-buka-tutup-rest-area-km-62-dan-42",
+            "source": "CNN Indonesia",
+            "title": "Arus Balik Polisi Siapkan Buka Tutup Rest Area KM 62 dan 42 "
+        },
+        {
+            "link": "https://www.cnnindonesia.com/hiburan/20200731155353-220-531053/alicia-keys-garap-dokumenter-soal-seleb-perempuan-kulit-hitam",
+            "source": "CNN Indonesia",
+            "title": "Alicia Keys Garap Dokumenter soal Seleb Perempuan Kulit Hitam"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/nasional/20200802105225-20-531313/ganjil-genap-kembali-berlaku-armada-transjakarta-ditambah",
+            "source": "CNN Indonesia",
+            "title": "Ganjil Genap Kembali Berlaku Armada Transjakarta Ditambah"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/ekonomi/20200801144011-96-531192/alasan-harga-emas-melesat-rp1-juta-di-tengah-ancaman-resesi",
+            "source": "CNN Indonesia",
+            "title": "Alasan Harga Emas Melesat Rp1 Juta di Tengah Ancaman Resesi"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/nasional/20200802104828-20-531312/sopir-ambulans-meninggal-usai-tabrak-truk-di-kebon-jeruk",
+            "source": "CNN Indonesia",
+            "title": "Sopir Ambulans Meninggal usai Tabrak Truk di Kebon Jeruk"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/olahraga/20191126122309-541-451553/ngadu-bola-antar-kampung",
+            "source": "CNN Indonesia",
+            "title": "Ngadu Bola Antar-Kampung"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/hiburan/20190928103409-543-434914/babad-pentas-srimulat",
+            "source": "CNN Indonesia",
+            "title": "Babad Pentas Srimulat"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/nasional/20200802101351-20-531309/ike-muti-minta-maaf-soal-insiden-hapus-foto-jokowi",
+            "source": "CNN Indonesia",
+            "title": "Ike Muti Minta Maaf soal Insiden Hapus Foto Jokowi"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/ekonomi/20200801144011-96-531192/alasan-harga-emas-melesat-rp1-juta-di-tengah-ancaman-resesi",
+            "source": "CNN Indonesia",
+            "title": "Alasan Harga Emas Melesat Rp1 Juta di Tengah Ancaman Resesi"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/internasional/20200802093404-120-531306/arab-saudi-tahan-ribuan-jemaah-haji-ilegal",
+            "source": "CNN Indonesia",
+            "title": "Arab Saudi Tahan Ribuan Jemaah Haji Ilegal"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/hiburan/20200731235413-220-531101/kisah-hidup-sulli-bakal-dibuat-dokumenter",
+            "source": "CNN Indonesia",
+            "title": "Kisah Hidup Sulli Bakal Dibuat Dokumenter"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/olahraga/20200802124655-156-531335/marquez-bakal-bermasalah-di-motogp-ceko",
+            "source": "CNN Indonesia",
+            "title": "Marquez Bakal Bermasalah di MotoGP Ceko"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/ekonomi/20200726092327-79-529011/pemilik-rekening-terbesar-di-bank-ri-dan-jurus-tolak-bangkrut",
+            "source": "CNN Indonesia",
+            "title": "Pemilik Rekening Terbesar di Bank RI dan Jurus Tolak Bangkrut"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/hiburan/20200724221903-242-528782/nama-adalah-doa-pun-begitu-zoro-anak-saya",
+            "source": "CNN Indonesia",
+            "title": "Nama adalah Doa Pun Begitu Zoro Anak Saya"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/ekonomi/20200709151521-93-522813/miopia-dalam-polemik-ekspor-benih-lobster",
+            "source": "CNN Indonesia",
+            "title": "Miopia dalam Polemik Ekspor Benih Lobster"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/olahraga/20200706102410-171-521260/selamat-tinggal-lin-dan-selamat-tinggal-kesempurnaan",
+            "source": "CNN Indonesia",
+            "title": "Selamat Tinggal Lin Dan Selamat Tinggal Kesempurnaan"
+        },
+        {
+            "link": "https://www.cnbcindonesia.com/market/20200802131250-17-176925/harga-batu-bara-terus-bergerak-turun-tanda-apa",
+            "source": "CNN Indonesia",
+            "title": " Harga Batu Bara Terus Bergerak Turun Tanda Apa"
+        },
+        {
+            "link": "https://www.cnbcindonesia.com/market/20200802115802-17-176915/sentimen-pasar-pekan-depan-pelototi-data-ekonomi-ri",
+            "source": "CNN Indonesia",
+            "title": " Sentimen Pasar Pekan Depan Pelototi Data Ekonomi RI"
+        },
+        {
+            "link": "https://news.detik.com/berita/d-5117262/koruptor-rp-100-miliar-juga-bisa-dihukum-mati-ini-syaratnya",
+            "source": "CNN Indonesia",
+            "title": "Koruptor Rp 100 Miliar Juga Bisa Dihukum Mati Ini Syaratnya"
+        },
+        {
+            "link": "https://sport.detik.com/raket/d-5117261/rencana-mohammad-ahsan-pensiun-tunggu-hendra-setiawan",
+            "source": "CNN Indonesia",
+            "title": "Rencana Mohammad Ahsan Pensiun Tunggu Hendra Setiawan"
+        },
+        {
+            "link": "https://news.detik.com/berita/d-5117259/ketua-mpr-dorong-museum-penanggulangan-terorisme-jadi-tujuan-wisata-bali",
+            "source": "CNN Indonesia",
+            "title": "Ketua MPR Dorong Museum Penanggulangan Terorisme Jadi Tujuan Wisata Bali"
+        },
+        {
+            "link": "https://www.cnbcindonesia.com/market/20200802131250-17-176925/harga-batu-bara-terus-bergerak-turun-tanda-apa",
+            "source": "CNBC Indonesia",
+            "title": "Harga Batu Bara Terus Bergerak Turun Tanda Apa"
+        },
+        {
+            "link": "https://www.cnbcindonesia.com/market/20200802115802-17-176915/sentimen-pasar-pekan-depan-pelototi-data-ekonomi-ri",
+            "source": "CNBC Indonesia",
+            "title": "Sentimen Pasar Pekan Depan Pelototi Data Ekonomi RI"
+        },
+        {
+            "link": "https://www.cnbcindonesia.com/news/20200802115340-4-176914/puncak-mudik-idul-adha-2020-hari-ini-siap-siap-macet",
+            "source": "CNBC Indonesia",
+            "title": "Puncak Mudik Idul Adha 2020 Hari Ini Siap-siap Macet"
+        },
+        {
+            "link": "https://www.cnbcindonesia.com/news/20200730123901-8-176507/pengamat-belajar-daring-butuh-kolaborasi-sekolah-orang-tua",
+            "source": "CNBC Indonesia",
+            "title": "Pengamat Belajar Daring Butuh Kolaborasi Sekolah  Orang Tua"
+        },
+        {
+            "link": "https://www.cnbcindonesia.com/market/20200802113657-17-176913/hantu-resesi-bergentayangan-analis-rekomendasikan-saham-ini",
+            "source": "CNBC Indonesia",
+            "title": "Hantu Resesi Bergentayangan Analis Rekomendasikan Saham Ini"
+        },
+        {
+            "link": "https://www.cnbcindonesia.com/news/20200802112748-4-176912/usai-misi-ke-mars-uea-kini-punya-pembangkit-listrik-nuklir",
+            "source": "CNBC Indonesia",
+            "title": "Usai Misi ke Mars UEA Kini Punya Pembangkit Listrik Nuklir"
+        },
+        {
+            "link": "https://www.cnbcindonesia.com/market/20200729174314-19-176332/efisiensi-siasat-penambang-hadapi-kenaikan-royalti",
+            "source": "CNBC Indonesia",
+            "title": "Efisiensi Siasat Penambang Hadapi Kenaikan Royalti"
+        },
+        {
+            "link": "https://www.cnbcindonesia.com/market/20200802105419-17-176902/nani-resesi-negeri-anime-jepang-bakal-panjang",
+            "source": "CNBC Indonesia",
+            "title": "Nani Resesi Negeri Anime Jepang Bakal Panjang"
+        },
+        {
+            "link": "https://www.cnbcindonesia.com/news/20200730143035-8-176545/ponsel-ilegal-masih-nyala-di-indonesia",
+            "source": "CNBC Indonesia",
+            "title": "Ponsel Ilegal Masih Nyala di Indonesia "
+        },
+        {
+            "link": "https://www.cnbcindonesia.com/news/20200802111212-4-176903/16-juta-pns-bakal-dimutasi-ke-desa-kamu-sepakat",
+            "source": "CNBC Indonesia",
+            "title": "16 Juta PNS Bakal Dimutasi ke Desa Kamu Sepakat"
+        },
+        {
+            "link": "https://sport.detik.com/raket/d-5117261/rencana-mohammad-ahsan-pensiun-tunggu-hendra-setiawan?tag_from=wp_nhl_2",
+            "source": "Detik",
+            "title": " Rencana Mohammad Ahsan Pensiun Tunggu Hendra Setiawan"
+        },
+        {
+            "link": "https://wolipop.detik.com/love/d-5117199/ramalan-zodiak-cinta-2-agustus-pisces-dia-menjengkelkan-taurus-bersabarlah?tag_from=wp_nhl_4",
+            "source": "Detik",
+            "title": " Ramalan Zodiak Cinta 2 Agustus Pisces Dia Menjengkelkan Taurus Bersabarlah"
+        },
+        {
+            "link": "https://food.detik.com/info-kuliner/d-5116482/istrinya-ngidam-kepiting-setiap-hari-pria-ini-hampir-bangkrut?tag_from=wp_nhl_6",
+            "source": "Detik",
+            "title": " Istrinya Ngidam Kepiting Setiap Hari Pria Ini Hampir Bangkrut"
+        },
+        {
+            "link": "https://hot.detik.com/celeb/d-5117061/ahok-yosafat-bukan-anak-haram?tag_from=wp_nhl_7",
+            "source": "Detik",
+            "title": " Ahok Yosafat Bukan Anak Haram"
+        },
+        {
+            "link": "https://finance.detik.com/berita-ekonomi-bisnis/d-5117226/tiktok-mau-dibeli-sama-microsoft?tag_from=wp_nhl_8",
+            "source": "Detik",
+            "title": " TikTok Mau Dibeli Sama Microsoft"
+        },
+        {
+            "link": "https://news.detik.com/berita/d-5117258/kai-perketat-pemeriksaan-kesehatan-penumpang-yang-turun-di-jakarta?tag_from=wp_nhl_9",
+            "source": "Detik",
+            "title": " KAI Perketat Pemeriksaan Kesehatan Penumpang yang Turun di Jakarta"
+        },
+        {
+            "link": "https://news.detik.com/berita/d-5117257/bahas-lomba-bamsoet-usul-polri-izinkan-pistol-kaliber-9-mm-untuk-bela-diri?tag_from=wp_nhl_10",
+            "source": "Detik",
+            "title": " Bahas Lomba Bamsoet Usul Polri Izinkan Pistol Kaliber 9 mm untuk Bela Diri"
+        },
+        {
+            "link": "https://news.detik.com/berita-jawa-timur/d-5117255/cerita-mahasiswa-unair-jadi-korban-fetish-pocong-trauma-dan-menganggap-aib?tag_from=wp_nhl_12",
+            "source": "Detik",
+            "title": " Cerita Mahasiswa Unair Jadi Korban Fetish Pocong Trauma dan Menganggap Aib"
+        },
+        {
+            "link": "https://sport.detik.com/sepakbola/liga-inggris/d-5117188/satu-hal-yang-bikin-lampard-gemas-banget-dengan-chelsea?tag_from=wp_nhl_13",
+            "source": "Detik",
+            "title": " Satu Hal yang Bikin Lampard Gemas Banget dengan Chelsea"
+        },
+        {
+            "link": "https://food.detik.com/info-kuliner/d-5116407/5-momen-selebriti-berkurban-dari-ayu-ting-ting-sampai-putra-siregar?tag_from=wp_nhl_14",
+            "source": "Detik",
+            "title": " 5 Momen Selebriti Berkurban dari Ayu Ting Ting sampai Putra Siregar"
+        },
+        {
+            "link": "https://hot.detik.com/spotlight/d-5117232/the-umbrella-academy-angkat-pembunuhan-john-f-kennedy?tag_from=wp_nhl_15",
+            "source": "Detik",
+            "title": " The Umbrella Academy Angkat Pembunuhan John F Kennedy"
+        },
+        {
+            "link": "https://oto.detik.com/catatan-pengendara-mobil/d-5117251/duh-keluarga-ini-kok-makan-makan-di-bahu-jalan-tol-sih?tag_from=wp_nhl_16",
+            "source": "Detik",
+            "title": " Duh Keluarga Ini Kok Makan-makan di Bahu Jalan Tol Sih"
+        },
+        {
+            "link": "https://travel.detik.com/travel-news/d-5117250/dieng-terlanjur-ramai-embun-es-sudah-hilang?tag_from=wp_nhl_17",
+            "source": "Detik",
+            "title": " Dieng Terlanjur Ramai Embun Es Sudah Hilang"
+        },
+        {
+            "link": "https://news.detik.com/berita-jawa-barat/d-5117249/viral-polisi-bubarkan-1-keluarga-botram-di-pinggir-jalan-tol-cipali?tag_from=wp_nhl_18",
+            "source": "Detik",
+            "title": " Viral Polisi Bubarkan 1 Keluarga Botram di Pinggir Jalan Tol Cipali"
+        },
+        {
+            "link": "https://news.detik.com/berita/d-5117238/profesor-hukum-kritik-anggapan-seleb-jadi-korban-dalam-prostitusi-artis?tag_from=wp_nhl_21",
+            "source": "Detik",
+            "title": " Profesor Hukum Kritik Anggapan Seleb Jadi Korban dalam Prostitusi Artis"
+        },
+        {
+            "link": "https://hot.detik.com/tv-news/d-5117191/sinopsis-the-tuxedo-dibintangi-jackie-chan-tayang-di-bioskop-trans-tv?tag_from=wp_nhl_22",
+            "source": "Detik",
+            "title": " Sinopsis The Tuxedo Dibintangi Jackie Chan Tayang di Bioskop Trans TV"
+        },
+        {
+            "link": "https://sport.detik.com/sepakbola/liga-inggris/d-5117187/liverpool-mau-mandi?tag_from=wp_nhl_25",
+            "source": "Detik",
+            "title": " Liverpool Mau Mandi"
+        },
+        {
+            "link": "https://news.detik.com/berita/d-5117236/2-bocah-kakak-beradik-suku-lauje-hilang-6-hari-di-hutan-mepanga-sulteng?tag_from=wp_nhl_26",
+            "source": "Detik",
+            "title": " 2 Bocah Kakak Beradik Suku Lauje Hilang 6 Hari di Hutan Mepanga Sulteng"
+        },
+        {
+            "link": "https://news.detik.com/berita/d-5117233/antrean-pengunjung-sesi-3-di-ring-road-gbk-menurun?tag_from=wp_nhl_27",
+            "source": "Detik",
+            "title": " Antrean Pengunjung Sesi 3 di Ring Road GBK Menurun"
+        },
+        {
+            "link": "https://inet.detik.com/fotoinet/d-5117209/15-ponsel-ikonik-sepanjang-masa-pernah-pakai-yang-mana?tag_from=wp_nhl_28",
+            "source": "Detik",
+            "title": " 15 Ponsel Ikonik Sepanjang Masa Pernah Pakai yang Mana"
+        },
+        {
+            "link": "https://regional.kompas.com/read/2020/08/02/11035951/terima-kasih-pembaca-kompascom-atas-bantuannya-untuk-anak-anak-makassar-yang",
+            "source": "Kompas",
+            "title": "Terima Kasih Pembaca Kompascom Atas Bantuannya Untuk Anak-anak Makassar yang Belajar di Kuburan"
+        },
+        {
+            "link": "https://www.kompas.com/sains/read/2020/08/02/120300523/seri-baru-jadi-ortu--apakah-bayi-yang-panjang-akan-menjadi-tinggi-saat",
+            "source": "Kompas",
+            "title": "Seri Baru Jadi Ortu Apakah Bayi yang Panjang Akan Menjadi Tinggi saat Dewasa"
+        },
+        {
+            "link": "https://www.kompas.com/hype/read/2020/08/02/140145866/minta-maaf-ke-pemprov-dki-ike-muti-tak-ada-niatan-sampaikan-kebohongan",
+            "source": "Kompas",
+            "title": "Minta Maaf ke Pemprov DKI Ike Muti Tak Ada Niatan Sampaikan Kebohongan"
+        },
+        {
+            "link": "https://megapolitan.kompas.com/read/2020/08/02/14013821/ike-mutia-minta-maaf-pemprov-dki-anggap-masalah-selesai",
+            "source": "Kompas",
+            "title": "Ike Mutia Minta Maaf Pemprov DKI Anggap Masalah Selesai"
+        },
+        {
+            "link": "https://bola.kompas.com/read/2020/08/02/14000058/maradona-dan-pele-dianggap-tak-lebih-hebat-dari-lionel-messi",
+            "source": "Kompas",
+            "title": "Maradona dan Pele Dianggap Tak Lebih Hebat dari Lionel Messi"
+        },
+        {
+            "link": "https://regional.kompas.com/read/2020/08/02/13534031/cerita-dingo-anjing-bernyanyi-papua-yang-viral-dianggap-sakral-suku-moni-di",
+            "source": "Kompas",
+            "title": "Cerita Dingo Anjing Bernyanyi Papua yang Viral Dianggap Sakral Suku Moni di Pegunungan Carstenz"
+        },
+        {
+            "link": "https://www.bolasport.com/read/312272031/usai-debat-bos-yamaha-malah-yakin-valentino-rossi-punya-kans-juarai-motogp-2020",
+            "source": "Kompas",
+            "title": "Usai Debat Bos Yamaha Malah Yakin Valentino Rossi Punya Kans Juarai MotoGP 2020"
+        },
+        {
+            "link": "https://www.kompas.com/tren/read/2020/08/02/134938065/update-haji-2020-disinfeksi-masjidil-haram-gunakan-54000-liter-disinfektan",
+            "source": "Kompas",
+            "title": "Update Haji 2020 Disinfeksi Masjidil Haram Gunakan 54000 Liter Disinfektan Setiap Hari"
+        },
+        {
+            "link": "https://www.kompasiana.com/fachrul63475/5f250df2d541df72c964df52/untung-rugi-usaha-ayam-petelur-500-ekor?utm_source=kompascom&utm_medium=article&utm_campaign=ContentFeed",
+            "source": "Kompas",
+            "title": "Untung-Rugi Usaha Ayam Petelur 500 Ekor"
+        },
+        {
+            "link": "https://info.kompas.com/promo/epaper-kompasid?source=300x200",
+            "source": "Kompas",
+            "title": "Semakin Paham dengan ePaper Kompas GRATIS"
+        },
+        {
+            "link": "https://www.kompas.com/sains/read/2020/08/02/134028123/video-tanya-dokter-heboh-gilang-bungkus-jarik-benarkah-itu-fetish",
+            "source": "Kompas",
+            "title": "VIDEO Tanya Dokter Heboh Gilang Bungkus Jarik Benarkah Itu Fetish"
+        },
+        {
+            "link": "https://bola.kompas.com/read/2020/08/02/13400018/arema-fc-persilahkan-masyarakat-untuk-komersialkan-logo-ulang-tahun-klub",
+            "source": "Kompas",
+            "title": "Arema FC Persilahkan Masyarakat untuk Komersialkan Logo Ulang Tahun Klub"
+        },
+        {
+            "link": "https://www.kompas.com/hype/read/2020/08/02/133216766/sinopsis-film-titisan-si-pitung-aksi-george-rudy-bela-rakyat-kecil",
+            "source": "Kompas",
+            "title": "Sinopsis Film Titisan Si Pitung Aksi George Rudy Bela Rakyat Kecil"
+        },
+        {
+            "link": "https://www.kompas.com/sports/read/2020/08/02/13320048/bek-bali-united-cetak-hattrick-dikaruniai-3-anak-sekaligus",
+            "source": "Kompas",
+            "title": "Bek Bali United Cetak Hattrick Dikaruniai 3 Anak Sekaligus"
+        },
+        {
+            "link": "https://money.kompas.com/read/2020/08/02/133145426/rugi-rp-10-triliun-di-semester-i-ini-yang-dilakukan-garuda-untuk-perbaiki",
+            "source": "Kompas",
+            "title": "Rugi Rp 10 Triliun di Semester I Ini yang Dilakukan Garuda untuk Perbaiki Kinerja"
+        },
+        {
+            "link": "https://www.kompas.id/baca/opini/2020/08/02/pk-ojong-dan-pramoedya/?utm_source=external_kompascom&utm_medium=berita_terkini&utm_campaign=kompascom",
+            "source": "Kompas",
+            "title": "PK Ojong dan Pramoedya"
+        },
+        {
+            "link": "https://www.kompasiana.com/wurihandoko7905/5f23e5d9097f3624b1005da2/kepulauan-talaud-merawat-keindonesiaan-di-pulau-terluar?utm_source=kompascom&utm_medium=article&utm_campaign=ContentFeed",
+            "source": "Kompas",
+            "title": "Kepulauan Talaud Merawat Keindonesiaan di Pulau Terluar"
+        },
+        {
+            "link": "https://health.kompas.com/read/2020/08/02/133000468/14-makanan-pelancar-bab-untuk-mengatasi-sembelit",
+            "source": "Kompas",
+            "title": "14 Makanan Pelancar BAB untuk Mengatasi Sembelit"
+        },
+        {
+            "link": "https://www.bolasport.com/read/312271848/bek-timnas-indonesia-bersuara-usai-piala-aff-2020-ditunda",
+            "source": "Kompas",
+            "title": "Bek Timnas Indonesia Bersuara Usai Piala AFF 2020 Ditunda"
+        },
+        {
+            "link": "https://www.kompas.com/hype/read/2020/08/02/132025166/jun-ji-hyun-ungkap-rahasia-tetap-terlihat-memukau-di-usia-38-tahun",
+            "source": "Kompas",
+            "title": "Jun Ji Hyun Ungkap Rahasia Tetap Terlihat Memukau di Usia 38 Tahun"
+        },
+        {
+            "link": "https://www.bolasport.com/read/312271960/valentino-rossi-harus-lakukan-ini-agar-tak-memble-lagi-saat-balapan",
+            "source": "Kompas",
+            "title": "Valentino Rossi Harus Lakukan Ini Agar Tak Memble Lagi Saat Balapan"
+        }
+    ],
+    "words": {
+        "": 29,
+        "1": 1,
+        "10": 1,
+        "100": 1,
+        "14": 1,
+        "1421": 1,
+        "15": 1,
+        "16": 1,
+        "2": 3,
+        "2020": 4,
+        "3": 2,
+        "38": 1,
+        "42": 1,
+        "5": 1,
+        "500": 1,
+        "54000": 1,
+        "6": 1,
+        "62": 1,
+        "9": 2,
+        "AFF": 1,
+        "Academy": 1,
+        "Ada": 1,
+        "Adha": 1,
+        "Agar": 1,
+        "Aglonema": 1,
+        "Agustus": 2,
+        "Ahok": 1,
+        "Ahsan": 2,
+        "Aib": 1,
+        "Ajak": 1,
+        "Akan": 2,
+        "Aksi": 1,
+        "Alasan": 4,
+        "Alicia": 1,
+        "Ambulans": 1,
+        "Amerika": 1,
+        "Anak": 4,
+        "Anak-anak": 1,
+        "Analis": 1,
+        "Ancaman": 4,
+        "Anggap": 2,
+        "Anggapan": 1,
+        "Angkat": 1,
+        "Anime": 1,
+        "Anji": 1,
+        "Anjing": 1,
+        "Antar-Kampung": 1,
+        "Anthony": 1,
+        "Antibodi": 1,
+        "Antrean": 1,
+        "Apa": 2,
+        "Apakah": 1,
+        "Arab": 1,
+        "Area": 1,
+        "Arema": 1,
+        "Armada": 2,
+        "Arsenal": 1,
+        "Artis": 1,
+        "Arus": 2,
+        "Atas": 1,
+        "Atlet": 1,
+        "Ayam": 1,
+        "Ayu": 1,
+        "BAB": 1,
+        "BMKG": 1,
+        "Babad": 1,
+        "Bahas": 1,
+        "Bahu": 1,
+        "Bakal": 6,
+        "Balapan": 1,
+        "Bali": 2,
+        "Balik": 2,
+        "Bamsoet": 1,
+        "Banget": 1,
+        "Bangkrut": 2,
+        "Bank": 2,
+        "Bansos": 1,
+        "Bantu": 1,
+        "Bantuannya": 1,
+        "Bara": 2,
+        "Baru": 1,
+        "Batu": 3,
+        "Bayar": 1,
+        "Bayi": 2,
+        "Beberkan": 1,
+        "Begitu": 1,
+        "Beijing": 1,
+        "Bek": 2,
+        "Bela": 2,
+        "Belajar": 2,
+        "Belum": 1,
+        "Benarkah": 1,
+        "Benih": 1,
+        "Beradik": 1,
+        "Bergentayangan": 1,
+        "Bergerak": 2,
+        "Berkali-kali": 1,
+        "Berkurban": 1,
+        "Berlaku": 1,
+        "Berlakukan": 1,
+        "Bermasalah": 2,
+        "Bernyanyi": 1,
+        "Berpeluang": 1,
+        "Bersabarlah": 1,
+        "Bersihkan": 1,
+        "Berstatus": 1,
+        "Bersuara": 1,
+        "Bertahan": 1,
+        "Bikin": 1,
+        "Binatang": 1,
+        "Bioskop": 1,
+        "Bisa": 1,
+        "Bocah": 1,
+        "Bocor": 1,
+        "Bogor": 1,
+        "Bola": 1,
+        "Bos": 2,
+        "Botram": 1,
+        "Bubarkan": 1,
+        "Buka": 1,
+        "Bukan": 1,
+        "Bulan": 2,
+        "Bungkus": 1,
+        "Butuh": 1,
+        "COVID-19": 1,
+        "CPO": 2,
+        "Cara": 1,
+        "Carstenz": 1,
+        "Ceko": 2,
+        "Cerita": 2,
+        "Cetak": 2,
+        "Chan": 1,
+        "Chelsea": 1,
+        "China": 2,
+        "Cikampek"

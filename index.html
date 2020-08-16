@@ -96,7 +96,7 @@ xmlhttp.onreadystatechange = function() {
 
     for(word in myObj.words){
 	var percentage = myObj.words[word] / totalCount * 100;
-	if (percentage > 0.3) {
+	if (percentage > 0.4) {
             var value = percentage * 1.5;
             var wordClouds = document.getElementById("word-clouds");
             var child = document.createElement("span");

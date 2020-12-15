@@ -1,0 +1,929 @@
+{
+    "covid": [
+        {
+            "link": "https://www.kompas.com/sains/read/2020/12/10/184500823/mengenal-delirium-gejala-baru-yang-dialami-pasien-covid-19",
+            "source": "Kompas",
+            "title": "Mengenal Delirium Gejala Baru yang Dialami Pasien Covid-19"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/nasional/20201210205943-32-580721/kpu-soal-gagal-target-pilkada-surabaya-pandemi-dan-gerimis",
+            "source": "CNN Indonesia",
+            "title": "KPU soal Gagal Target Pilkada Surabaya Pandemi dan Gerimis"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/nasional/20201210220935-20-580733/petugas-evakuasi-pasien-covid-19-jakarta-dengan-bus-sekolah",
+            "source": "CNN Indonesia",
+            "title": "Petugas Evakuasi Pasien Covid-19 Jakarta dengan Bus Sekolah"
+        },
+        {
+            "link": "https://www.cnbcindonesia.com/news/20201210220114-4-208297/permintaan-anggota-dpr-soal-vaksin-covid-19-banyak-yah",
+            "source": "CNN Indonesia",
+            "title": " Permintaan Anggota DPR Soal Vaksin Covid-19 Banyak Yah"
+        },
+        {
+            "link": "https://www.cnbcindonesia.com/news/20201210220114-4-208297/permintaan-anggota-dpr-soal-vaksin-covid-19-banyak-yah",
+            "source": "CNBC Indonesia",
+            "title": "Permintaan Anggota DPR Soal Vaksin Covid-19 Banyak Yah"
+        }
+    ],
+    "general": [
+        {
+            "link": "https://finance.detik.com/infografis/d-5290460/10-orang-terkaya-ri-2020?tag_from=wp_nhl_2",
+            "source": "Detik",
+            "title": " 10 Orang Terkaya RI 2020"
+        },
+        {
+            "link": "https://news.detik.com/berita/d-5290492/mutasi-polri-irjen-rudy-jadi-kapolda-banten-brigjen-awi-wagub-akpol?tag_from=wp_nhl_3",
+            "source": "Detik",
+            "title": " Mutasi Polri Irjen Rudy Jadi Kapolda Banten Brigjen Awi Wagub Akpol"
+        },
+        {
+            "link": "https://news.detik.com/berita/d-5290492/mutasi-polri-irjen-rudy-jadi-kapolda-banten-brigjen-awi-wagub-akpol?tag_from=wp_nhl_4",
+            "source": "Detik",
+            "title": " Mutasi Polri Irjen Rudy Jadi Kapolda Banten Brigjen Awi Wagub Akpol"
+        },
+        {
+            "link": "https://health.detik.com/sexual-health/d-5290480/5-posisi-seks-yang-membuat-wanita-lebih-cepat-orgasme?tag_from=wp_nhl_6",
+            "source": "Detik",
+            "title": " 5 Posisi Seks yang Membuat Wanita Lebih Cepat Orgasme"
+        },
+        {
+            "link": "https://finance.detik.com/infografis/d-5290460/10-orang-terkaya-ri-2020?tag_from=wp_nhl_7",
+            "source": "Detik",
+            "title": " 10 Orang Terkaya RI 2020"
+        },
+        {
+            "link": "https://news.detik.com/berita/d-5290462/irjen-napoleon-bicara-soal-keanehan-saat-ditemui-tommy-sumardi?tag_from=wp_nhl_9",
+            "source": "Detik",
+            "title": " Irjen Napoleon Bicara soal Keanehan saat Ditemui Tommy Sumardi"
+        },
+        {
+            "link": "?tag_from=wp_nhl_10",
+            "source": "Detik",
+            "title": ""
+        },
+        {
+            "link": "https://bola.kompas.com/read/2020/12/11/04200038/semakin-mengkhawatirkan-ini-tiga-lini-man-united-yang-harus-ditambal",
+            "source": "Kompas",
+            "title": "Semakin Mengkhawatirkan Ini Tiga Lini Man United yang Harus Ditambal"
+        },
+        {
+            "link": "https://www.kompasiana.com/kaekaha.4277/5fd0fd938ede483c806dd4e2/jalan-sunyi-panahan-kasumedangan-menolak-punah?utm_source=kompascom&utm_medium=article&utm_campaign=ContentFeed",
+            "source": "Kompas",
+            "title": "Jalan Sunyi Panahan Kasumedangan Menolak Punah"
+        },
+        {
+            "link": "https://bola.kompas.com/read/2020/12/11/03191348/dundalk-vs-arsenal-the-gunners-ke-babak-32-besar-dengan-poin-sempurna",
+            "source": "Kompas",
+            "title": "Dundalk Vs Arsenal The Gunners ke Babak 32 Besar dengan Poin Sempurna"
+        },
+        {
+            "link": "https://www.kompasiana.com/ardyfirmansyah/5fcdad3d8ede48229936e8c2/baca-buku-itu-susah-dan-membosankan?utm_source=kompascom&utm_medium=article&utm_campaign=ContentFeed",
+            "source": "Kompas",
+            "title": "Baca Buku Itu Susah dan Membosankan"
+        },
+        {
+            "link": "https://www.kompas.id/baca/olahraga/2020/12/11/federer-masih-tetap-kompetitif/?utm_source=external_kompascom&utm_medium=berita_terkini&utm_campaign=kompascom",
+            "source": "Kompas",
+            "title": "Roger Federer Masih Tetap Kompetitif"
+        },
+        {
+            "link": "https://www.kompas.com/sports/read/2020/12/11/02540368/hasil-napoli-vs-real-sociedad-imbang-partenopei-tetap-lolos-ke-32-besar",
+            "source": "Kompas",
+            "title": "Hasil Napoli Vs Real Sociedad - Imbang Partenopei Tetap Lolos ke 32 Besar Liga Europa"
+        },
+        {
+            "link": "https://www.kompas.com/sports/read/2020/12/11/01300078/link-live-streaming-sparta-vs-ac-milan-di-liga-europa-kick-off-03.00-wib",
+            "source": "Kompas",
+            "title": "Link Live Streaming Sparta Vs AC Milan di Liga Europa Kick-off 0300 WIB"
+        },
+        {
+            "link": "https://bola.kompas.com/read/2020/12/11/01015438/man-united-gugur-di-ucl-bruno-kecewa-berat-dengan-pemain-setan-merah",
+            "source": "Kompas",
+            "title": "Man United Gugur di UCL Bruno Kecewa Berat dengan Pemain Setan Merah"
+        },
+        {
+            "link": "https://info.kompas.com/promo/epaper-kompasid?source=300x200",
+            "source": "Kompas",
+            "title": "Semakin Paham dengan ePaper Kompas GRATIS"
+        },
+        {
+            "link": "https://www.kompas.com/sports/read/2020/12/11/00400008/sudah-punya-robert-lewandowski-bayern-muenchen-tak-butuh-erling-haaland",
+            "source": "Kompas",
+            "title": "Sudah Punya Robert Lewandowski Bayern Muenchen Tak Butuh Erling Haaland"
+        },
+        {
+            "link": "https://www.kompas.com/motogp/read/2020/12/11/00275078/jelang-motogp-2021-morbidelli-cs-tak-sabar-sambut-valentino-rossi",
+            "source": "Kompas",
+            "title": "Jelang MotoGP 2021 Morbidelli cs Tak Sabar Sambut Valentino Rossi"
+        },
+        {
+            "link": "https://bola.kompas.com/read/2020/12/11/00020708/antoine-griezmann-tinggalkan-sponsor-huawei-karena-isu-uighur",
+            "source": "Kompas",
+            "title": "Antoine Griezmann Tinggalkan Sponsor Huawei karena Isu Uighur"
+        },
+        {
+            "link": "https://www.kompas.com/motogp/read/2020/12/10/23550018/link-live-streaming-napoli-vs-real-sociedad-di-liga-europa-kick-off-00.55",
+            "source": "Kompas",
+            "title": "Link Live Streaming Napoli Vs Real Sociedad di Liga Europa Kick-off 0055 WIB"
+        },
+        {
+            "link": "https://www.kompas.com/motogp/read/2020/12/10/23400048/demi-tampil-oke-pada-motogp-2021-quartararo-bertekad-kendalikan-emosi",
+            "source": "Kompas",
+            "title": "Demi Tampil Oke pada MotoGP 2021 Quartararo Bertekad Kendalikan Emosi"
+        },
+        {
+            "link": "https://www.kompas.com/sports/read/2020/12/10/23330008/pon-2024-keuntungan-aceh-jadi-tuan-rumah",
+            "source": "Kompas",
+            "title": "PON 2024 Keuntungan Aceh Jadi Tuan Rumah"
+        },
+        {
+            "link": "https://bola.kompas.com/read/2020/12/10/23300098/link-live-streaming-dundalk-vs-arsenal-kick-off-00.55-wib-",
+            "source": "Kompas",
+            "title": "Link Live Streaming Dundalk vs Arsenal Kick-off 0055 WIB "
+        },
+        {
+            "link": "https://www.kompas.com/motogp/read/2020/12/10/23260948/klarifikasi-jorge-lorenzo-soal-dugaan-kasus-penggelapan-pajak",
+            "source": "Kompas",
+            "title": "Klarifikasi Jorge Lorenzo soal Dugaan Kasus Penggelapan Pajak"
+        },
+        {
+            "link": "https://megapolitan.kompas.com/read/2020/12/10/23223401/penganiaya-lurah-cipete-utara-jadi-tersangka-dan-ditahan",
+            "source": "Kompas",
+            "title": "Penganiaya Lurah Cipete Utara Jadi Tersangka dan Ditahan"
+        },
+        {
+            "link": "https://regional.kompas.com/read/2020/12/10/23193361/siswa-sma-mabuk-miras-tendang-polisi-dan-tantang-berkelahi",
+            "source": "Kompas",
+            "title": "Siswa SMA Mabuk Miras Tendang Polisi dan Tantang Berkelahi"
+        },
+        {
+            "link": "https://regional.kompas.com/read/2020/12/10/23132591/tambang-emas-liar-di-lebak-mengalami-longsor-4-orang-tewas-2-hilang",
+            "source": "Kompas",
+            "title": "Tambang Emas Liar di Lebak Mengalami Longsor 4 Orang Tewas 2 Hilang"
+        },
+        {
+            "link": "https://nasional.kompas.com/read/2020/12/10/23080851/brigjen-prasetijo-mengaku-sempat-diminta-ke-luar-ruangan-saat-tommy-sumardi",
+            "source": "Kompas",
+            "title": "Brigjen Prasetijo Mengaku Sempat Diminta Ke Luar Ruangan Saat Tommy Sumardi Bertemu Irjen Napoleon"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/nasional/20201210222703-32-580734/eri-cahyadi-ke-machfud-arifin-usai-qc-respek-setinggi-langit",
+            "source": "CNN Indonesia",
+            "title": "Eri Cahyadi ke Machfud Arifin Usai QC Respek Setinggi Langit"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/nasional/20201130172020-12-576281/rizieq-shihab-resmi-tersangka-kerumunan-petamburan",
+            "source": "CNN Indonesia",
+            "title": "Rizieq Shihab Resmi Tersangka Kerumunan Petamburan"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/nasional/20201211005118-12-580738/buka-hotline-polisi-janjikan-transparan-usut-penembakan-fpi",
+            "source": "CNN Indonesia",
+            "title": "Buka Hotline Polisi Janjikan Transparan Usut Penembakan FPI"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/teknologi/20201210104958-185-580409/spesifikasi-oppo-find-x3-pakai-snapdragon-888",
+            "source": "CNN Indonesia",
+            "title": "Spesifikasi Oppo Find X3 Pakai Snapdragon 888"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/nasional/20201211030741-12-580744/pelaku-pemukulan-lurah-cipete-utara-saat-razia-prokes-ditahan",
+            "source": "CNN Indonesia",
+            "title": "Pelaku Pemukulan Lurah Cipete Utara saat Razia Prokes Ditahan"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/nasional/20201210203010-12-580701/polisi-soal-hp-laskar-fpi-yang-tewas-jadi-barang-bukti",
+            "source": "CNN Indonesia",
+            "title": "Polisi soal HP Laskar FPI yang Tewas Jadi Barang Bukti"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/olahraga/20201210163001-156-580594/petronas-ultimatum-rossi-kamu-bukan-anak-emas",
+            "source": "CNN Indonesia",
+            "title": "Petronas Ultimatum Rossi Kamu Bukan Anak Emas"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/nasional/20201211021702-20-580742/bmkg-gempa-m-51-guncang-bitung-sulut-tak-berpotensi-tsunami",
+            "source": "CNN Indonesia",
+            "title": "BMKG Gempa M 51 Guncang Bitung Sulut Tak Berpotensi Tsunami"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/tv/20201210210159-409-580722/video-menilai-penetapan-rizieq-shihab-sebagai-tersangka",
+            "source": "CNN Indonesia",
+            "title": "VIDEO Menilai Penetapan Rizieq Shihab Sebagai Tersangka"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/tv/20201210211338-408-580725/video-bicara-pelanggaran-protokol-kesehatan-saat-pilkada",
+            "source": "CNN Indonesia",
+            "title": "VIDEO Bicara Pelanggaran Protokol Kesehatan Saat Pilkada"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/tv/20201210210058-409-580719/video-kotak-suara-permainan-penguasa",
+            "source": "CNN Indonesia",
+            "title": "VIDEO Kotak Suara Permainan Penguasa"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/tv/20201210210159-409-580722/video-menilai-penetapan-rizieq-shihab-sebagai-tersangka",
+            "source": "CNN Indonesia",
+            "title": "VIDEO Menilai Penetapan Rizieq Shihab Sebagai Tersangka"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/hiburan/20201210154950-227-580581/tak-dibayar-tiffany-haddish-ogah-pandu-pra-grammy",
+            "source": "CNN Indonesia",
+            "title": "Tak Dibayar Tiffany Haddish Ogah Pandu Pra-Grammy"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/nasional/20201210164453-32-580600/pilkada-2020-airlangga-klaim-golkar-menang-di-165-daerah",
+            "source": "CNN Indonesia",
+            "title": "Pilkada 2020 Airlangga Klaim Golkar Menang di 165 Daerah"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/internasional/20201211000145-120-580737/kedua-dalam-sebulan-jurnalis-perempuan-afghanistan-tewas",
+            "source": "CNN Indonesia",
+            "title": "Kedua dalam Sebulan Jurnalis Perempuan Afghanistan Tewas"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/nasional/20201210203729-12-580703/lima-eks-pejabat-waskita-karya-didakwa-rugikan-negara-rp202-m",
+            "source": "CNN Indonesia",
+            "title": "Lima Eks Pejabat Waskita Karya Didakwa Rugikan Negara Rp202 M"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/olahraga/20201210122434-178-580451/tony-ferguson-marah-besar-pada-ufc",
+            "source": "CNN Indonesia",
+            "title": "Tony Ferguson Marah Besar pada UFC"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/nasional/20201210225521-32-580735/kalah-hasil-qc-atep-ucapkan-selamat-ke-sahrul-gunawan",
+            "source": "CNN Indonesia",
+            "title": "Kalah Hasil QC Atep Ucapkan Selamat ke Sahrul Gunawan"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/teknologi/20201210134749-384-580510/generasi-kedua-mobil-hidrogen-toyota-mirai-meluncur-di-jepang",
+            "source": "CNN Indonesia",
+            "title": "Generasi Kedua Mobil Hidrogen Toyota Mirai Meluncur di Jepang"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/nasional/20201210181123-32-580653/pilkada-humbahas-petahana-ketat-lawan-kotak-kosong",
+            "source": "CNN Indonesia",
+            "title": "Pilkada Humbahas Petahana Ketat Lawan Kotak Kosong"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/gaya-hidup/20201209201951-255-580220/3-kondisi-mr-p-ungkap-kesehatan-pria",
+            "source": "CNN Indonesia",
+            "title": "3 Kondisi Mr P Ungkap Kesehatan Pria"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/nasional/20201210233627-20-580736/mutasi-polisi-kapolri-idham-azis-geser-posisi-kapolda-banten",
+            "source": "CNN Indonesia",
+            "title": "Mutasi Polisi Kapolri Idham Azis Geser Posisi Kapolda Banten"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/hiburan/20201210214319-227-580732/taylor-swift-umumkan-bakal-album-baru",
+            "source": "CNN Indonesia",
+            "title": "Taylor Swift Umumkan Bakal Album Baru"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/nasional/20201210171946-32-580625/kasus-rizieq-dinilai-geser-perhatian-kemenangan-gibran-bobby",
+            "source": "CNN Indonesia",
+            "title": "Kasus Rizieq Dinilai Geser Perhatian Kemenangan Gibran-Bobby"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/olahraga/20201210152937-142-580572/aguero-tak-jadi-pemain-inti-di-derby-manchester",
+            "source": "CNN Indonesia",
+            "title": "Aguero Tak Jadi Pemain Inti di Derby Manchester"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/ekonomi/20201210163419-532-580595/ekonomi-china-eropa-dan-as-diproyeksi-pulih-tahun-ini",
+            "source": "CNN Indonesia",
+            "title": "Ekonomi China Eropa dan AS Diproyeksi Pulih Tahun Ini"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/internasional/20201210204004-120-580704/pm-lebanon-dan-3-eks-menteri-didakwa-atas-ledakan-beirut",
+            "source": "CNN Indonesia",
+            "title": "PM Lebanon dan 3 Eks Menteri Didakwa Atas Ledakan Beirut"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/gaya-hidup/20201205155130-277-578409/jade-plants-tanaman-hias-keberuntungan-seo-dal-mi-nam-do-san",
+            "source": "CNN Indonesia",
+            "title": "Jade Plants Tanaman Hias Keberuntungan Seo Dal-mi-Nam Do-san"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/tv/20201130183848-407-576319/video-berkebun-dengan-media-tanam-anti-kotor",
+            "source": "CNN Indonesia",
+            "title": "VIDEO Berkebun dengan Media Tanam Anti Kotor"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/gaya-hidup/20201129100947-277-575787/mengenal-dan-cara-merawat-calathea-ornata",
+            "source": "CNN Indonesia",
+            "title": "Mengenal dan Cara Merawat Calathea Ornata"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/nasional/20201210203010-12-580701/polisi-soal-hp-laskar-fpi-yang-tewas-jadi-barang-bukti",
+            "source": "CNN Indonesia",
+            "title": "Polisi soal HP Laskar FPI yang Tewas Jadi Barang Bukti"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/nasional/20201210222703-32-580734/eri-cahyadi-ke-machfud-arifin-usai-qc-respek-setinggi-langit",
+            "source": "CNN Indonesia",
+            "title": "Eri Cahyadi ke Machfud Arifin Usai QC Respek Setinggi Langit"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/olahraga/20201210163001-156-580594/petronas-ultimatum-rossi-kamu-bukan-anak-emas",
+            "source": "CNN Indonesia",
+            "title": "Petronas Ultimatum Rossi Kamu Bukan Anak Emas"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/nasional/20201211005118-12-580738/buka-hotline-polisi-janjikan-transparan-usut-penembakan-fpi",
+            "source": "CNN Indonesia",
+            "title": "Buka Hotline Polisi Janjikan Transparan Usut Penembakan FPI"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/nasional/20201210233627-20-580736/mutasi-polisi-kapolri-idham-azis-geser-posisi-kapolda-banten",
+            "source": "CNN Indonesia",
+            "title": "Mutasi Polisi Kapolri Idham Azis Geser Posisi Kapolda Banten"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/olahraga/20201025180214-179-562560/janji-untuk-ibu-dan-jalan-pulang-khabib-yang-penuh-haru",
+            "source": "CNN Indonesia",
+            "title": "Janji untuk Ibu dan Jalan Pulang Khabib yang Penuh Haru"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/nasional/20201012081351-33-557206/tunda-pilkada-serentak-pak-presiden-yang-terhormat",
+            "source": "CNN Indonesia",
+            "title": "Tunda Pilkada Serentak Pak Presiden yang Terhormat"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/olahraga/20201012093413-179-557233/surat-untuk-mendiang-kobe",
+            "source": "CNN Indonesia",
+            "title": "Surat untuk Mendiang Kobe"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/nasional/20201006115735-33-554877/rezim-uu-omnibus-cilaka-masa-depan-ri-celaka",
+            "source": "CNN Indonesia",
+            "title": "Rezim UU Omnibus Cilaka Masa Depan RI Celaka"
+        },
+        {
+            "link": "https://www.cnbcindonesia.com/market/20201210221916-17-208299/erick-ungkap-penggabungan-ultra-mikro-di-bri-pnm-pegadaian",
+            "source": "CNN Indonesia",
+            "title": " Erick Ungkap Penggabungan Ultra Mikro di BRI-PNM-Pegadaian"
+        },
+        {
+            "link": "https://www.cnbcindonesia.com/news/20201210215646-4-208296/anggaran-naik-pupr-selesaikan-proyek-strategis-di-2021",
+            "source": "CNN Indonesia",
+            "title": " Anggaran Naik PUPR Selesaikan Proyek Strategis di 2021"
+        },
+        {
+            "link": "https://news.detik.com/berita/d-5290589/bmkg-waspada-hujan-petir-di-jaksel-dan-jaktim-hari-ini",
+            "source": "CNN Indonesia",
+            "title": "BMKG Waspada Hujan Petir di Jaksel dan Jaktim Hari Ini"
+        },
+        {
+            "link": "https://news.detik.com/berita/d-5290588/motif-suami-di-dumai-bakar-istri-hingga-tewas-masih-jadi-misteri",
+            "source": "CNN Indonesia",
+            "title": "Motif Suami di Dumai Bakar Istri hingga Tewas Masih Jadi Misteri"
+        },
+        {
+            "link": "https://news.detik.com/berita/d-5290587/ada-program-amnesti-kbri-muscat-pulangkan-54-pekerja-migran-indonesia",
+            "source": "CNN Indonesia",
+            "title": "Ada Program Amnesti KBRI Muscat Pulangkan 54 Pekerja Migran Indonesia"
+        },
+        {
+            "link": "https://www.cnbcindonesia.com/market/20201210221916-17-208299/erick-ungkap-penggabungan-ultra-mikro-di-bri-pnm-pegadaian",
+            "source": "CNBC Indonesia",
+            "title": "Erick Ungkap Penggabungan Ultra Mikro di BRI-PNM-Pegadaian"
+        },
+        {
+            "link": "https://www.cnbcindonesia.com/news/20201210215646-4-208296/anggaran-naik-pupr-selesaikan-proyek-strategis-di-2021",
+            "source": "CNBC Indonesia",
+            "title": "Anggaran Naik PUPR Selesaikan Proyek Strategis di 2021"
+        },
+        {
+            "link": "https://www.cnbcindonesia.com/news/20201210213032-7-208285/malam-penganugerahan-cnbc-indonesia-award-2020",
+            "source": "CNBC Indonesia",
+            "title": "Malam Penganugerahan CNBC Indonesia Award 2020"
+        },
+        {
+            "link": "https://www.cnbcindonesia.com/market/20201210214750-17-208284/erick-thohir-telkom-punya-aksi-korporasi-besar-tahun-depan",
+            "source": "CNBC Indonesia",
+            "title": "Erick Thohir Telkom Punya Aksi Korporasi Besar Tahun Depan"
+        },
+        {
+            "link": "https://www.cnbcindonesia.com/news/20201209181430-8-207957/erick-thohir-raih-penghargaan-the-most-influential-minister",
+            "source": "CNBC Indonesia",
+            "title": "Erick Thohir Raih Penghargaan The Most Influential Minister"
+        },
+        {
+            "link": "https://www.cnbcindonesia.com/news/20201210214003-4-208283/terungkap-bank-mandiri-rancang-financial-super-app-terbaru",
+            "source": "CNBC Indonesia",
+            "title": "Terungkap Bank Mandiri Rancang Financial Super App Terbaru"
+        },
+        {
+            "link": "https://www.cnbcindonesia.com/news/20201210213142-4-208281/langgar-protokol-178-ribu-orang-kena-tegur-satgas-di-pilkada",
+            "source": "CNBC Indonesia",
+            "title": "Langgar Protokol 178 Ribu Orang Kena Tegur Satgas di Pilkada"
+        },
+        {
+            "link": "https://www.cnbcindonesia.com/news/20201209181311-8-207956/basuki-hadimuljono-the-best-minister-di-cnbc-indonesia-award",
+            "source": "CNBC Indonesia",
+            "title": "Basuki Hadimuljono The Best Minister di CNBC Indonesia Award"
+        },
+        {
+            "link": "https://www.cnbcindonesia.com/market/20201210212942-17-208282/klaim-pengangguran-membengkak-dow-jones-dibuka-turun-90-poin",
+            "source": "CNBC Indonesia",
+            "title": "Klaim Pengangguran Membengkak Dow Jones Dibuka Turun 90 Poin"
+        },
+        {
+            "link": "https://www.cnbcindonesia.com/news/20201209181537-8-207959/tp-rachmat-lifetime-achievement-cnbc-indonesia-award-2020",
+            "source": "CNBC Indonesia",
+            "title": "TP Rachmat Lifetime Achievement CNBC Indonesia Award 2020"
+        },
+        {
+            "link": "https://www.cnbcindonesia.com/news/20201211013016-4-208302/hut-63-spbu-listrik-komersial-pertama-pertamina-beroperasi",
+            "source": "CNBC Indonesia",
+            "title": "HUT 63 SPBU Listrik Komersial Pertama Pertamina Beroperasi"
+        }
+    ],
+    "words": {
+        "": 1,
+        "-": 1,
+        "0055": 7,
+        "0300": 4,
+        "10": 7,
+        "165": 3,
+        "178": 6,
+        "2": 8,
+        "2020": 8,
+        "2021": 14,
+        "2024": 6,
+        "3": 7,
+        "32": 3,
+        "4": 8,
+        "5": 6,
+        "51": 7,
+        "54": 1,
+        "63": 4,
+        "888": 1,
+        "90": 6,
+        "AC": 6,
+        "AS": 6,
+        "Aceh": 6,
+        "Achievement": 6,
+        "Ada": 9,
+        "Afghanistan": 6,
+        "Aguero": 6,
+        "Airlangga": 3,
+        "Akpol": 6,
+        "Aksi": 7,
+        "Album": 6,
+        "Amnesti": 1,
+        "Anak": 2,
+        "Anggaran": 7,
+        "Anggota": 7,
+        "Anti": 6,
+        "Antoine": 7,
+        "App": 6,
+        "Arifin": 1,
+        "Arsenal": 6,
+        "Atas": 6,
+        "Atep": 4,
+        "Award": 8,
+        "Awi": 6,
+        "Azis": 7,
+        "BMKG": 3,
+        "BRI-PNM-Pegadaian": 7,
+        "Babak": 2,
+        "Baca": 2,
+        "Bakal": 7,
+        "Bakar": 1,
+        "Bank": 6,
+        "Banten": 9,
+        "Banyak": 7,
+        "Barang": 2,
+        "Baru": 7,
+        "Basuki": 6,
+        "Bayern": 5,
+        "Beirut": 6,
+        "Berat": 4,
+        "Berkebun": 6,
+        "Berkelahi": 6,
+        "Beroperasi": 4,
+        "Berpotensi": 7,
+        "Bertekad": 6,
+        "Bertemu": 8,
+        "Besar": 6,
+        "Best": 6,
+        "Bicara": 7,
+        "Bitung": 7,
+        "Brigjen": 7,
+        "Bruno": 6,
+        "Buka": 1,
+        "Bukan": 2,
+        "Bukti": 2,
+        "Buku": 2,
+        "Bus": 6,
+        "Butuh": 5,
+        "CNBC": 8,
+        "Cahyadi": 1,
+        "Calathea": 6,
+        "Cara": 6,
+        "Celaka": 6,
+        "Cepat": 6,
+        "China": 6,
+        "Cilaka": 6,
+        "Cipete": 6,
+        "Covid-19": 11,
+        "DPR": 8,
+        "Daerah": 3,
+        "Dal-mi-Nam": 6,
+        "Delirium": 6,
+        "Demi": 8,
+        "Depan": 7,
+        "Derby": 6,
+        "Dialami": 6,
+        "Dibayar": 3,
+        "Dibuka": 8,
+        "Didakwa": 6,
+        "Diminta": 6,
+        "Dinilai": 7,
+        "Diproyeksi": 6,
+        "Ditahan": 6,
+        "Ditambal": 1,
+        "Ditemui": 6,
+        "Do-san": 6,
+        "Dow": 6,
+        "Dugaan": 7,
+        "Dumai": 1,
+        "Dundalk": 6,
+        "Ekonomi": 8,
+        "Eks": 6,
+        "Emas": 6,
+        "Emosi": 6,
+        "Eri": 1,
+        "Erick": 12,
+        "Erling": 5,
+        "Eropa": 6,
+        "Europa": 6,
+        "Evakuasi": 6,
+        "FPI": 8,
+        "Federer": 1,
+        "Ferguson": 4,
+        "Financial": 6,
+        "Find": 1,
+        "GRATIS": 6,
+        "Gagal": 2,
+        "Gejala": 6,
+        "Gempa": 7,
+        "Generasi": 5,
+        "Gerimis": 2,
+        "Geser": 9,
+        "Gibran-Bobby": 7,
+        "Golkar": 3,
+        "Griezmann": 7,
+        "Gugur": 4,
+        "Gunawan": 4,
+        "Guncang": 3,
+        "Gunners": 2,
+        "HP": 2,
+        "HUT": 4,
+        "Haaland": 5,
+        "Haddish": 3,
+        "Hadimuljono": 6,
+        "Hari": 1,
+        "Haru": 6,
+        "Harus": 6,
+        "Hasil": 4,
+        "Hias": 6,
+        "Hidrogen": 5,
+        "Hilang": 6,
+        "Hotline": 1,
+        "Huawei": 6,
+        "Hujan": 1,
+        "Humbahas": 5,
+        "Ibu": 6,
+        "Idham": 7,
+        "Imbang": 3,
+        "Indonesia": 9,
+        "Influential": 6,
+        "Ini": 7,
+        "Inti": 6,
+        "Irjen": 8,
+        "Istri": 1,
+        "Isu": 6,
+        "Itu": 2,
+        "Jade": 6,
+        "Jadi": 13,
+        "Jakarta": 7,
+        "Jaksel": 1,
+        "Jaktim": 1,
+        "Jalan": 6,
+        "Janji": 6,
+        "Janjikan": 1,
+        "Jelang": 5,
+        "Jepang": 5,
+        "Jones": 6,
+        "Jorge": 6,
+        "Jurnalis": 6,
+        "KBRI": 1,
+        "KPU": 2,
+        "Kalah": 4,
+        "Kamu": 2,
+        "Kapolda": 9,
+        "Kapolri": 7,
+        "Karya": 4,
+        "Kasumedangan": 1,
+        "Kasus": 12,
+        "Ke": 6,
+        "Keanehan": 6,
+        "Keberuntungan": 6,
+        "Kecewa": 4,
+        "Kedua": 5,
+        "Kemenangan": 7,
+        "Kena": 6,
+        "Kendalikan": 6,
+        "Kerumunan": 6,
+        "Kesehatan": 6,
+        "Ketat": 6,
+        "Keuntungan": 6,
+        "Khabib": 6,
+        "Kick-off": 7,
+        "Klaim": 6,
+        "Klarifikasi": 6,
+        "Kobe": 6,
+        "Komersial": 4,
+        "Kompas": 6,
+        "Kompetitif": 1,
+        "Kondisi": 5,
+        "Korporasi": 6,
+        "Kosong": 5,
+        "Kotak": 6,
+        "Kotor": 6,
+        "Langgar": 6,
+        "Langit": 1,
+        "Laskar": 8,
+        "Lawan": 5,
+        "Lebak": 6,
+        "Lebanon": 6,
+        "Lebih": 8,
+        "Ledakan": 6,
+        "Lewandowski": 5,
+        "Liar": 6,
+        "Lifetime": 6,
+        "Liga": 7,
+        "Lima": 4,
+        "Lini": 1,
+        "Link": 7,
+        "Listrik": 4,
+        "Live": 7,
+        "Lolos": 7,
+        "Longsor": 6,
+        "Lorenzo": 6,
+        "Luar": 6,
+        "Lurah": 6,
+        "M": 6,
+        "Mabuk": 6,
+        "Machfud": 1,
+        "Malam": 7,
+        "Man": 4,
+        "Manchester": 6,
+        "Mandiri": 6,
+        "Marah": 4,
+        "Masa": 6,
+        "Masih": 1,
+        "Media": 6,
+        "Meluncur": 5,
+        "Membengkak": 6,
+        "Membosankan": 2,
+        "Membuat": 6,
+        "Menang": 3,
+        "Mendiang": 6,
+        "Mengaku": 6,
+        "Mengalami": 6,
+        "Mengenal": 7,
+        "Mengkhawatirkan": 1,
+        "Menilai": 7,
+        "Menolak": 1,
+        "Menteri": 6,
+        "Merah": 4,
+        "Merawat": 6,
+        "Migran": 1,
+        "Mikro": 7,
+        "Milan": 6,
+        "Minister": 7,
+        "Mirai": 5,
+        "Miras": 6,
+        "Misteri": 1,
+        "Mobil": 5,
+        "Morbidelli": 5,
+        "Most": 6,
+        "Motif": 1,
+        "MotoGP": 6,
+        "Mr": 5,
+        "Muenchen": 5,
+        "Muscat": 1,
+        "Mutasi": 8,
+        "Naik": 7,
+        "Napoleon": 7,
+        "Napoli": 6,
+        "Negara": 7,
+        "Ogah": 3,
+        "Oke": 6,
+        "Omnibus": 6,
+        "Oppo": 1,
+        "Orang": 8,
+        "Orgasme": 6,
+        "Ornata": 6,
+        "P": 5,
+        "PM": 6,
+        "PON": 6,
+        "PUPR": 7,
+        "Paham": 6,
+        "Pajak": 6,
+        "Pak": 6,
+        "Pakai": 1,
+        "Panahan": 1,
+        "Pandemi": 2,
+        "Pandu": 3,
+        "Partenopei": 3,
+        "Pasien": 7,
+        "Pejabat": 4,
+        "Pekerja": 1,
+        "Pelaku": 2,
+        "Pelanggaran": 6,
+        "Pemain": 7,
+        "Pemukulan": 2,
+        "Penembakan": 1,
+        "Penetapan": 7,
+        "Pengangguran": 6,
+        "Penganiaya": 6,
+        "Penganugerahan": 6,
+        "Penggabungan": 7,
+        "Penggelapan": 6,
+        "Penghargaan": 7,
+        "Penguasa": 6,
+        "Penuh": 6,
+        "Perempuan": 4,
+        "Perhatian": 7,
+        "Permainan": 6,
+        "Permintaan": 7,
+        "Pertama": 4,
+        "Pertamina": 4,
+        "Petahana": 5,
+        "Petamburan": 6,
+        "Petir": 1,
+        "Petronas": 2,
+        "Petugas": 6,
+        "Pilkada": 8,
+        "Plants": 6,
+        "Poin": 6,
+        "Polisi": 8,
+        "Polri": 7,
+        "Posisi": 8,
+        "Pra-Grammy": 3,
+        "Prasetijo": 6,
+        "Presiden": 7,
+        "Pria": 5,
+        "Program": 1,
+        "Prokes": 2,
+        "Protokol": 8,
+        "Proyek": 8,
+        "Pulang": 6,
+        "Pulangkan": 1,
+        "Pulih": 6,
+        "Punah": 1,
+        "Punya": 7,
+        "QC": 4,
+        "Quartararo": 6,
+        "RI": 8,
+        "Rachmat": 6,
+        "Raih": 7,
+        "Rancang": 6,
+        "Razia": 2,
+        "Real": 6,
+        "Resmi": 6,
+        "Respek": 1,
+        "Rezim": 6,
+        "Ribu": 6,
+        "Rizieq": 12,
+        "Robert": 5,
+        "Roger": 1,
+        "Rossi": 5,
+        "Rp202": 4,
+        "Ruangan": 6,
+        "Rudy": 6,
+        "Rugikan": 4,
+        "Rumah": 6,
+        "SMA": 6,
+        "SPBU": 4,
+        "Saat": 7,
+        "Sabar": 5,
+        "Sahrul": 4,
+        "Sambut": 5,
+        "Satgas": 6,
+        "Sebagai": 7,
+        "Sebulan": 4,
+        "Sekolah": 6,
+        "Seks": 6,
+        "Selamat": 4,
+        "Selesaikan": 7,
+        "Semakin": 6,
+        "Sempat": 6,
+        "Sempurna": 2,
+        "Seo": 6,
+        "Serentak": 6,
+        "Setan": 4,
+        "Setinggi": 1,
+        "Shihab": 8,
+        "Siswa": 6,
+        "Snapdragon": 1,
+        "Soal": 7,
+        "Sociedad": 6,
+        "Sparta": 6,
+        "Spesifikasi": 1,
+        "Sponsor": 6,
+        "Strategis": 7,
+        "Streaming": 7,
+        "Suami": 1,
+        "Suara": 6,
+        "Sudah": 5,
+        "Sulut": 3,
+        "Sumardi": 7,
+        "Sunyi": 1,
+        "Super": 6,
+        "Surabaya": 2,
+        "Surat": 6,
+        "Susah": 2,
+        "Swift": 6,
+        "TP": 6,
+        "Tahun": 9,
+        "Tak": 14,
+        "Tambang": 6,
+        "Tampil": 6,
+        "Tanam": 6,
+        "Tanaman": 6,
+        "Tantang": 6,
+        "Target": 2,
+        "Taylor": 6,
+        "Tegur": 6,
+        "Telkom": 7,
+        "Tendang": 6,
+        "Terbaru": 6,
+        "Terhormat": 6,
+        "Terkaya": 6,
+        "Tersangka": 10,
+        "Terungkap": 6,
+        "Tetap": 3,
+        "Tewas": 6,
+        "The": 7,
+        "Thohir": 10,
+        "Tiffany": 3,
+        "Tiga": 6,
+        "Tinggalkan": 6,
+        "Tommy": 8,
+        "Tony": 4,
+        "Toyota": 5,
+        "Transparan": 1,
+        "Tsunami": 7,
+        "Tuan": 6,
+        "Tunda": 6,
+        "Turun": 6,
+        "UCL": 4,
+        "UFC": 4,
+        "UU": 6,
+        "Ucapkan": 4,
+        "Uighur": 7,
+        "Ultimatum": 2,
+        "Ultra": 7,
+        "Umumkan": 6,
+        "Ungkap": 7,
+        "United": 4,
+        "Usai": 7,
+        "Usut": 1,
+        "Utara": 7,
+        "VIDEO": 10,
+        "Vaksin": 9,
+        "Valentino": 5,
+        "Vs": 6,
+        "WIB": 7,
+        "Wagub": 6,
+        "Wanita": 7,
+        "Waskita": 4,
+        "Waspada": 1,
+        "X3": 1,
+        "Yah": 7,
+        "cs": 1,
+        "dalam": 1,
+        "dan": 1,
+        "dengan": 1,
+        "di": 1,
+        "ePaper": 1,
+        "hingga": 1,
+        "karena": 1,
+        "ke": 1,
+        "pada": 1,
+        "saat": 1,
+        "soal": 1,
+        "untuk": 1,
+        "vs": 1,
+        "yang": 1
+    }
+}

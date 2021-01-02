@@ -1,0 +1,916 @@
+{
+    "covid": [
+        {
+            "link": "https://www.cnbcindonesia.com/news/20201230134039-7-212571/melihat-beijing-yang-lockdown-sebagian-karena-corona-lagi",
+            "source": "CNBC Indonesia",
+            "title": "Melihat Beijing yang Lockdown Sebagian karena Corona Lagi"
+        },
+        {
+            "link": "https://www.cnbcindonesia.com/news/20201230120218-8-212520/mutasi-virus-lebih-cepat-menular-kata-satgas-ini-bahayanya",
+            "source": "CNBC Indonesia",
+            "title": "Mutasi Virus Lebih Cepat Menular Kata Satgas Ini Bahayanya"
+        },
+        {
+            "link": "https://www.cnbcindonesia.com/tech/20201230140335-37-212578/uji-klinis-mulus-kapan-eua-vaksin-covid-19-sinovac-dirilis",
+            "source": "CNBC Indonesia",
+            "title": "Uji Klinis Mulus Kapan EUA Vaksin Covid-19 Sinovac Dirilis"
+        },
+        {
+            "link": "https://www.cnbcindonesia.com/market/20201230140101-19-212569/pandemi-percepat-digitalisasi-bisnis-logistik",
+            "source": "CNBC Indonesia",
+            "title": "Pandemi Percepat Digitalisasi Bisnis Logistik "
+        },
+        {
+            "link": "https://www.kompas.com/global/read/2020/12/30/145022670/muncul-18-kasus-covid-19-baru-sydney-waspada",
+            "source": "Kompas",
+            "title": "Muncul 18 Kasus Covid-19 Baru Sydney Waspada"
+        },
+        {
+            "link": "https://regional.kompas.com/read/2020/12/30/14300831/39-pegawai-positif-covid-19-kantor-disdukcapil-bulukumba-tutup-sementara",
+            "source": "Kompas",
+            "title": "39 Pegawai Positif Covid-19 Kantor Disdukcapil Bulukumba Tutup Sementara"
+        },
+        {
+            "link": "https://nasional.kompas.com/read/2020/12/30/14295651/indonesia-siap-beli-50-juta-dosis-vaksin-covid-19-dari-astrazeneca-dan",
+            "source": "Kompas",
+            "title": "Indonesia Siap Beli 50 Juta Dosis Vaksin Covid-19 dari AstraZeneca dan Novavax"
+        },
+        {
+            "link": "https://www.kompas.com/tren/read/2020/12/30/142736365/finlandia-laporkan-kasus-varian-baru-virus-corona-inggris-dan-afrika",
+            "source": "Kompas",
+            "title": "Finlandia Laporkan Kasus Varian Baru Virus Corona Inggris dan Afrika Selatan"
+        },
+        {
+            "link": "https://health.detik.com/berita-detikhealth/d-5314843/tok-indonesia-resmi-beli-50-juta-vaksin-covid-19-astrazeneca-novavax?tag_from=wp_nhl_4",
+            "source": "Detik",
+            "title": " Tok Indonesia Resmi Beli 50 Juta Vaksin COVID-19 AstraZeneca-Novavax"
+        },
+        {
+            "link": "https://health.detik.com/berita-detikhealth/d-5314843/tok-indonesia-resmi-beli-50-juta-vaksin-covid-19-astrazeneca-novavax?tag_from=wp_nhl_7",
+            "source": "Detik",
+            "title": " Tok Indonesia Resmi Beli 50 Juta Vaksin COVID-19 AstraZeneca-Novavax"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/internasional/20201230144553-134-587883/inggris-resmi-pakai-vaksin-astrazeneca-lawan-covid-19",
+            "source": "CNN Indonesia",
+            "title": "Inggris Resmi Pakai Vaksin AstraZeneca Lawan Covid-19"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/tv/20201230135005-407-587845/video-as-konfirmasi-kasus-pertama-varian-baru-covid-19",
+            "source": "CNN Indonesia",
+            "title": "VIDEO AS Konfirmasi Kasus Pertama Varian Baru Covid-19"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/nasional/20201230141228-20-587861/bpom-percepat-beri-izin-darurat-untuk-vaksin-covid-19-sinovac",
+            "source": "CNN Indonesia",
+            "title": "BPOM Percepat Beri Izin Darurat untuk Vaksin Covid-19 Sinovac"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/teknologi/20201230122758-199-587791/mengenal-efikasi-vaksin-covid-19",
+            "source": "CNN Indonesia",
+            "title": "Mengenal Efikasi Vaksin Covid-19"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/gaya-hidup/20201216163531-281-583018/video-hobi-dadakan-paling-hit-saat-pandemi-2020",
+            "source": "CNN Indonesia",
+            "title": "VIDEO Hobi Dadakan Paling Hit Saat Pandemi 2020"
+        },
+        {
+            "link": "https://www.cnbcindonesia.com/news/20201230134039-7-212571/melihat-beijing-yang-lockdown-sebagian-karena-corona-lagi",
+            "source": "CNN Indonesia",
+            "title": " Melihat Beijing yang Lockdown Sebagian karena Corona Lagi"
+        },
+        {
+            "link": "https://news.detik.com/berita/d-5314993/kajari-jambi-wafat-usai-dirawat-karena-diabetes-positif-corona",
+            "source": "CNN Indonesia",
+            "title": "Kajari Jambi Wafat Usai Dirawat Karena Diabetes-Positif Corona"
+        }
+    ],
+    "general": [
+        {
+            "link": "https://www.cnbcindonesia.com/news/20201230130538-4-212546/ini-perjalanan-repsol-minta-restu-ri-garap-blok-gas-raksasa",
+            "source": "CNBC Indonesia",
+            "title": "Ini Perjalanan Repsol Minta Restu RI Garap Blok Gas Raksasa"
+        },
+        {
+            "link": "https://www.cnbcindonesia.com/market/20201230142438-17-212584/rekor-tutup-tahun-ipo-tembus-51-investor-capai-38-juta",
+            "source": "CNBC Indonesia",
+            "title": "Rekor Tutup Tahun IPO Tembus 51 Investor Capai 38 Juta"
+        },
+        {
+            "link": "https://www.cnbcindonesia.com/market/20201230095637-17-212505/2021-ekonomi-china-moncer-komoditas-meroket-ri-untung",
+            "source": "CNBC Indonesia",
+            "title": "2021 Ekonomi China Moncer Komoditas Meroket RI Untung"
+        },
+        {
+            "link": "https://www.cnbcindonesia.com/news/20201230141803-4-212583/vaksin-dan-uu-cipta-kerja-2-senjata-pemerintah-tahun-depan",
+            "source": "CNBC Indonesia",
+            "title": "Vaksin dan UU Cipta Kerja 2 Senjata Pemerintah Tahun Depan"
+        },
+        {
+            "link": "https://www.cnbcindonesia.com/tech/20201230141606-37-212582/kapan-izin-vaksin-covid-sinovac-diterbitkan-di-ri",
+            "source": "CNBC Indonesia",
+            "title": "Kapan Izin Vaksin Covid Sinovac Diterbitkan di RI"
+        },
+        {
+            "link": "https://www.cnbcindonesia.com/market/20201230140402-17-212579/horee-batas-ganti-rugi-investor-naik-jadi-rp-200-juta",
+            "source": "CNBC Indonesia",
+            "title": "Horee Batas Ganti Rugi Investor Naik Jadi Rp 200 Juta"
+        },
+        {
+            "link": "https://www.cnbcindonesia.com/news/20201230133642-4-212565/industri-di-akhir-tahun-mulai-menggeliat-tahun-depan-gimana",
+            "source": "CNBC Indonesia",
+            "title": "Industri di Akhir Tahun Mulai Menggeliat Tahun Depan Gimana"
+        },
+        {
+            "link": "https://www.cnbcindonesia.com/news/20201230134318-4-212552/blok-gas-sakakemang-direstui-begini-reaksi-bahagia-repsol",
+            "source": "CNBC Indonesia",
+            "title": "Blok Gas Sakakemang Direstui Begini Reaksi Bahagia Repsol"
+        },
+        {
+            "link": "https://www.kompas.com/hype/read/2020/12/30/144712266/kata-polisi-gisel-sempat-kirim-video-syur-ke-myd-via-airdrop-setelah-itu",
+            "source": "Kompas",
+            "title": "Kata Polisi Gisel Sempat Kirim Video Syur ke MYD via AirDrop Setelah Itu Ponselnya Hilang"
+        },
+        {
+            "link": "https://www.kompas.com/hype/read/2020/12/30/145810766/setelah-kirim-video-syur-ke-myd-gisel-katakan-2-ponselnya-hilang-dan-rusak",
+            "source": "Kompas",
+            "title": "Setelah Kirim Video Syur ke MYD Gisel Katakan 2 Ponselnya Hilang dan Rusak"
+        },
+        {
+            "link": "https://otomotif.kompas.com/read/2020/12/30/145647415/layanan-perpanjangan-sim-tutup-di-tahun-baru",
+            "source": "Kompas",
+            "title": "Layanan Perpanjangan SIM Tutup di Tahun Baru"
+        },
+        {
+            "link": "https://nasional.kompas.com/read/2020/12/30/14545951/6-alasan-pemerintah-bubarkan-dan-larang-kegiatan-fpi",
+            "source": "Kompas",
+            "title": "6 Alasan Pemerintah Bubarkan dan Larang Kegiatan FPI"
+        },
+        {
+            "link": "https://regional.kompas.com/read/2020/12/30/14540061/kaleidoskop-2020--penusukan-syekh-ali-jaber-saat-mengisi-pengajian-di",
+            "source": "Kompas",
+            "title": "Kaleidoskop 2020 Penusukan Syekh Ali Jaber Saat Mengisi Pengajian di Lampung"
+        },
+        {
+            "link": "https://www.kompas.id/baca/olahraga/2020/12/30/mu-mengintip-puncak-klasemen/?utm_source=external_kompascom&utm_medium=berita_terkini&utm_campaign=kompascom",
+            "source": "Kompas",
+            "title": "MU Mengintip Puncak Klasemen"
+        },
+        {
+            "link": "https://www.kompas.com/hype/read/2020/12/30/145319766/sinopsis-ikatan-cinta-30-desember-surya-meminta-al-untuk-berubah",
+            "source": "Kompas",
+            "title": "Sinopsis Ikatan Cinta 30 Desember Surya Meminta Al untuk Berubah"
+        },
+        {
+            "link": "https://www.kompas.com/hype/read/2020/12/30/144712266/kata-polisi-gisel-sempat-kirim-video-syur-ke-myd-via-airdrop-setelah-itu",
+            "source": "Kompas",
+            "title": "Kata Polisi Gisel Sempat Kirim Video Syur ke MYD via AirDrop Setelah Itu Ponselnya Hilang"
+        },
+        {
+            "link": "https://info.kompas.com/promo/epaper-kompasid?source=300x200",
+            "source": "Kompas",
+            "title": "Semakin Paham dengan ePaper Kompas GRATIS"
+        },
+        {
+            "link": "https://www.kompas.com/homey/read/2020/12/30/144500476/7-fungsi-setrika-selain-untuk-melicinkan-pakaian",
+            "source": "Kompas",
+            "title": "7 Fungsi Setrika Selain untuk Melicinkan Pakaian"
+        },
+        {
+            "link": "https://money.kompas.com/read/2020/12/30/144451026/didorong-nataru-pengguna-pesawat-sudah-45-persen-dari-kondisi-normal",
+            "source": "Kompas",
+            "title": "Didorong Nataru Pengguna Pesawat Sudah 45 Persen dari Kondisi Normal"
+        },
+        {
+            "link": "https://www.kompas.com/hype/read/2020/12/30/144312766/wajah-boleh-mirip-raffi-ahmad-soal-playboy-begini-jawaban-dimas-ramadhan",
+            "source": "Kompas",
+            "title": "Wajah Boleh Mirip Raffi Ahmad Soal Playboy Begini Jawaban Dimas Ramadhan"
+        },
+        {
+            "link": "https://www.kompas.com/hype/read/2020/12/30/144200066/ditanya-soal-musik-dan-akting-lala-karmela--nikmatnya-beda",
+            "source": "Kompas",
+            "title": "Ditanya Soal Musik dan Akting Lala Karmela Nikmatnya Beda"
+        },
+        {
+            "link": "https://www.kompas.com/sports/read/2020/12/30/14400068/newcastle-vs-liverpool-tantangan-the-reds-di-markas-si-penjegal-juara",
+            "source": "Kompas",
+            "title": "Newcastle Vs Liverpool Tantangan The Reds di Markas Si Penjegal Juara"
+        },
+        {
+            "link": "https://jeo.kompas.com/naskah-lengkap-skb-pembubaran-fpi",
+            "source": "Kompas",
+            "title": "Naskah Lengkap SKB Pembubaran FPI"
+        },
+        {
+            "link": "https://www.kompas.id/baca/video/2020/12/30/panen-bawang-merah-di-kebun-rumah/?utm_source=external_kompascom&utm_medium=berita_terkini&utm_campaign=kompascom",
+            "source": "Kompas",
+            "title": "Panen Bawang Merah di Kebun Rumah"
+        },
+        {
+            "link": "https://www.kompas.com/global/read/2020/12/30/143353170/boeing-max-737-kembali-terbang-komersial-setelah-dua-kecelakaan-tewaskan",
+            "source": "Kompas",
+            "title": "Boeing Max 737 Kembali Terbang Komersial Setelah Dua Kecelakaan Tewaskan Ratusan Jiwa"
+        },
+        {
+            "link": "https://money.kompas.com/read/2020/12/30/142933426/jelang-akhir-tahun-anggaran-pemulihan-ekonomi-nasional-baru-terserap-72-persen",
+            "source": "Kompas",
+            "title": "Jelang Akhir Tahun Anggaran Pemulihan Ekonomi Nasional Baru Terserap 72 Persen"
+        },
+        {
+            "link": "https://tekno.kompas.com/read/2020/12/30/14290027/pengguna-diuntungkan-jika-merger-indosat-dan-tri-terwujud",
+            "source": "Kompas",
+            "title": "Pengguna Diuntungkan jika Merger Indosat dan Tri Terwujud"
+        },
+        {
+            "link": "https://www.kompas.id/baca/video/2020/12/30/resmi-sebagai-organisasi-terlarang-pemerintah-bubarkan-fpi/?utm_source=external_kompascom&utm_medium=berita_terkini&utm_campaign=kompascom",
+            "source": "Kompas",
+            "title": "Resmi Sebagai Organisasi Terlarang Pemerintah Bubarkan FPI"
+        },
+        {
+            "link": "https://news.detik.com/berita/d-5314817/ini-pernyataan-lengkap-pemerintah-dan-isi-skb-pelarangan-fpi?tag_from=wp_nhl_3",
+            "source": "Detik",
+            "title": " Ini Pernyataan Lengkap Pemerintah dan Isi SKB Pelarangan FPI"
+        },
+        {
+            "link": "https://news.detik.com/berita/d-5314817/ini-pernyataan-lengkap-pemerintah-dan-isi-skb-pelarangan-fpi?tag_from=wp_nhl_8",
+            "source": "Detik",
+            "title": " Ini Pernyataan Lengkap Pemerintah dan Isi SKB Pelarangan FPI"
+        },
+        {
+            "link": "https://finance.detik.com/berita-ekonomi-bisnis/d-5314740/jadi-alat-transaksi-seks-berapa-harga-indomie-di-ghana?tag_from=wp_nhl_9",
+            "source": "Detik",
+            "title": " Jadi Alat Transaksi Seks Berapa Harga Indomie di Ghana"
+        },
+        {
+            "link": "?tag_from=wp_nhl_10",
+            "source": "Detik",
+            "title": ""
+        },
+        {
+            "link": "https://www.cnnindonesia.com/nasional/20201230123409-20-587792/pemerintah-tetapkan-fpi-organisasi-terlarang",
+            "source": "CNN Indonesia",
+            "title": "Pemerintah Tetapkan FPI Organisasi Terlarang"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/nasional/20201227101945-506-586622/kolong-kota-melankolia-batas-kota",
+            "source": "CNN Indonesia",
+            "title": "Kolong Kota Melankolia Batas Kota"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/nasional/20201230142616-20-587871/tiada-tahun-baruan-1000-petugas-kebersihan-dki-tetap-siaga",
+            "source": "CNN Indonesia",
+            "title": "Tiada Tahun Baruan 1000 Petugas Kebersihan DKI Tetap Siaga"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/teknologi/20201230125513-384-587815/cegah-bus-listrik-terbakar-skywell-ogah-gandeng-karoseri",
+            "source": "CNN Indonesia",
+            "title": "Cegah Bus Listrik Terbakar Skywell Ogah Gandeng Karoseri"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/hiburan/20201230125233-234-587805/youngbin-sf9-buka-akun-instagram-langsung-diserbu-fan",
+            "source": "CNN Indonesia",
+            "title": "Youngbin SF9 Buka Akun Instagram Langsung Diserbu Fan"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/nasional/20201230142125-32-587877/isi-lengkap-skb-soal-fpi-organisasi-terlarang",
+            "source": "CNN Indonesia",
+            "title": "Isi Lengkap SKB soal FPI Organisasi Terlarang"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/ekonomi/20201230142529-92-587869/lebih-rendah-target-ipo-tahun-depan-hanya-30-perusahaan",
+            "source": "CNN Indonesia",
+            "title": "Lebih Rendah Target IPO Tahun Depan Hanya 30 Perusahaan"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/nasional/20201230143258-12-587876/gisel-dan-myd-akan-diperiksa-sebagai-tersangka-4-januari",
+            "source": "CNN Indonesia",
+            "title": "Gisel dan MYD akan Diperiksa sebagai Tersangka 4 Januari"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/tv/20201230130436-405-587813/video-menko-polhukam-fpi-sudah-dianggap-bubar-sejak-2019",
+            "source": "CNN Indonesia",
+            "title": "VIDEO Menko Polhukam FPI Sudah Dianggap Bubar Sejak 2019"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/tv/20201230143148-405-587873/video-hindari-razia-pengendara-motor-kecelakaan",
+            "source": "CNN Indonesia",
+            "title": "VIDEO Hindari Razia Pengendara Motor Kecelakaan"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/tv/20201230140848-405-587857/video-pemerintah-prioritaskan-vaksinasi-untuk-nakes",
+            "source": "CNN Indonesia",
+            "title": "VIDEO Pemerintah Prioritaskan Vaksinasi untuk Nakes"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/olahraga/20201230135559-178-587851/mike-tyson-saya-ingin-bunuh-berbick-karena-ali",
+            "source": "CNN Indonesia",
+            "title": "Mike Tyson Saya Ingin Bunuh Berbick karena Ali"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/nasional/20201230123558-20-587794/terbitkan-ingub-anies-minta-sosialisasi-vaksin-ke-warga",
+            "source": "CNN Indonesia",
+            "title": "Terbitkan Ingub Anies Minta Sosialisasi Vaksin ke Warga"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/internasional/20201230135327-106-587849/menlu-janji-kawal-pengadaan-vaksin-dalam-negeri-dan-dunia",
+            "source": "CNN Indonesia",
+            "title": "Menlu Janji Kawal Pengadaan Vaksin dalam Negeri dan Dunia"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/nasional/20201230141844-12-587866/berkas-lengkap-bahar-smith-segera-disidang-di-pn-cibinong",
+            "source": "CNN Indonesia",
+            "title": "Berkas Lengkap Bahar Smith Segera Disidang di PN Cibinong"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/nasional/20201230141135-12-587863/siap-tertibkan-fpi-polda-sumut-tunggu-instruksi-kapolri",
+            "source": "CNN Indonesia",
+            "title": "Siap Tertibkan FPI Polda Sumut Tunggu Instruksi Kapolri"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/ekonomi/20201230140555-92-587855/utilisasi-industri-capai-599-persen-per-november-2020",
+            "source": "CNN Indonesia",
+            "title": "Utilisasi Industri Capai 599 Persen per November 2020"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/nasional/20201230135921-20-587853/fpi-pelajari-konteks-rekaman-video-rizieq-shihab-dukung-isis",
+            "source": "CNN Indonesia",
+            "title": "FPI Pelajari Konteks Rekaman Video Rizieq Shihab Dukung ISIS"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/gaya-hidup/20201230140019-255-587856/hubungkan-pasien-dan-pendonor-di-tengah-sulitnya-donor-plasma",
+            "source": "CNN Indonesia",
+            "title": "Hubungkan Pasien dan Pendonor di Tengah Sulitnya Donor Plasma"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/nasional/20201230132528-20-587831/larang-fpi-mahfud-md-ungkap-video-rizieq-dukung-isis",
+            "source": "CNN Indonesia",
+            "title": "Larang FPI Mahfud MD Ungkap Video Rizieq Dukung ISIS"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/olahraga/20201230140313-170-587854/pergi-ke-thailand-open-tim-badminton-indonesia-sewa-pesawat",
+            "source": "CNN Indonesia",
+            "title": "Pergi ke Thailand Open Tim Badminton Indonesia Sewa Pesawat"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/nasional/20201230134516-20-587841/fpi-siap-ptun-kan-skb-3-menteri-usai-dilarang-pemerintah",
+            "source": "CNN Indonesia",
+            "title": "FPI Siap PTUN-kan SKB 3 Menteri Usai Dilarang Pemerintah"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/ekonomi/20201230134413-92-587840/bio-farma-resmi-kantongi-izin-cpob-produksi-vaksin-covid",
+            "source": "CNN Indonesia",
+            "title": "Bio Farma Resmi Kantongi Izin CPOB Produksi Vaksin Covid"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/hiburan/20201223181342-227-585813/album-lokal-internasional-terbaik-2020-versi-cnnindonesiacom",
+            "source": "CNN Indonesia",
+            "title": "Album Lokal-Internasional Terbaik 2020 versi CNNIndonesiacom"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/nasional/20201230132625-20-587839/sepak-terjang-fpi-dari-1998-berakhir-terlarang-di-era-jokowi",
+            "source": "CNN Indonesia",
+            "title": "Sepak Terjang FPI dari 1998 Berakhir Terlarang di Era Jokowi"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/gaya-hidup/20201230075708-277-587674/tanaman-hias-blue-star-fern-biru-kehijauan-yang-bikin-tenang",
+            "source": "CNN Indonesia",
+            "title": "Tanaman Hias Blue Star Fern Biru Kehijauan yang Bikin Tenang"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/gaya-hidup/20201106163703-277-566844/9-peralatan-kebun-di-rumah-yang-wajib-punya",
+            "source": "CNN Indonesia",
+            "title": "9 Peralatan Kebun di Rumah yang Wajib Punya"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/nasional/20201230123409-20-587792/pemerintah-tetapkan-fpi-organisasi-terlarang",
+            "source": "CNN Indonesia",
+            "title": "Pemerintah Tetapkan FPI Organisasi Terlarang"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/nasional/20201230133606-20-587836/fpi-buka-peluang-ganti-nama-lain-usai-dilarang-pemerintah",
+            "source": "CNN Indonesia",
+            "title": "FPI Buka Peluang Ganti Nama Lain Usai Dilarang Pemerintah"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/nasional/20201230125803-20-587812/6-alasan-pemerintah-bubarkan-fpi",
+            "source": "CNN Indonesia",
+            "title": "6 Alasan Pemerintah Bubarkan FPI"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/nasional/20201230113815-20-587770/pemerintah-fpi-sudah-dianggap-bubar-sejak-2019",
+            "source": "CNN Indonesia",
+            "title": "Pemerintah FPI Sudah Dianggap Bubar Sejak 2019"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/nasional/20201230132528-20-587831/larang-fpi-mahfud-md-ungkap-video-rizieq-dukung-isis",
+            "source": "CNN Indonesia",
+            "title": "Larang FPI Mahfud MD Ungkap Video Rizieq Dukung ISIS"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/nasional/20201215105638-13-582248/extra-judicial-killing-dan-cermin-polri-di-kasus-laskar-fpi",
+            "source": "CNN Indonesia",
+            "title": "Extra Judicial Killing dan Cermin Polri di Kasus Laskar FPI"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/nasional/20201213215832-21-581618/gratiskan-vaksin-kami",
+            "source": "CNN Indonesia",
+            "title": "Gratiskan Vaksin Kami"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/olahraga/20201025180214-179-562560/janji-untuk-ibu-dan-jalan-pulang-khabib-yang-penuh-haru",
+            "source": "CNN Indonesia",
+            "title": "Janji untuk Ibu dan Jalan Pulang Khabib yang Penuh Haru"
+        },
+        {
+            "link": "https://www.cnnindonesia.com/nasional/20201012081351-33-557206/tunda-pilkada-serentak-pak-presiden-yang-terhormat",
+            "source": "CNN Indonesia",
+            "title": "Tunda Pilkada Serentak Pak Presiden yang Terhormat"
+        },
+        {
+            "link": "https://www.cnbcindonesia.com/news/20201230130538-4-212546/ini-perjalanan-repsol-minta-restu-ri-garap-blok-gas-raksasa",
+            "source": "CNN Indonesia",
+            "title": " Ini Perjalanan Repsol Minta Restu RI Garap Blok Gas Raksasa"
+        },
+        {
+            "link": "https://www.cnbcindonesia.com/market/20201230142438-17-212584/rekor-tutup-tahun-ipo-tembus-51-investor-capai-38-juta",
+            "source": "CNN Indonesia",
+            "title": " Rekor Tutup Tahun IPO Tembus 51 Investor Capai 38 Juta"
+        },
+        {
+            "link": "https://finance.detik.com/infrastruktur/d-5314976/sah-konsorsium-ct-corp-jadi-pengelola-pelabuhan-patimban",
+            "source": "CNN Indonesia",
+            "title": "Sah Konsorsium CT Corp Jadi Pengelola Pelabuhan Patimban"
+        },
+        {
+            "link": "https://news.detik.com/detiktv/d-5314992/bakamla-laut-natuna-utara-paling-rawan-illegal-fishing",
+            "source": "CNN Indonesia",
+            "title": "Bakamla Laut Natuna Utara Paling Rawan Illegal Fishing"
+        }
+    ],
+    "words": {
+        "": 1,
+        "1000": 1,
+        "18": 2,
+        "1998": 1,
+        "2": 2,
+        "200": 1,
+        "2019": 3,
+        "2020": 18,
+        "2021": 26,
+        "3": 8,
+        "30": 2,
+        "38": 1,
+        "39": 1,
+        "4": 4,
+        "45": 1,
+        "50": 2,
+        "51": 1,
+        "599": 1,
+        "6": 3,
+        "7": 5,
+        "72": 1,
+        "737": 1,
+        "9": 16,
+        "AS": 4,
+        "Afrika": 1,
+        "Ahmad": 1,
+        "AirDrop": 1,
+        "Akhir": 4,
+        "Akting": 1,
+        "Akun": 1,
+        "Al": 1,
+        "Alasan": 3,
+        "Alat": 6,
+        "Album": 2,
+        "Ali": 1,
+        "Anggaran": 1,
+        "Anies": 1,
+        "AstraZeneca": 2,
+        "AstraZeneca-Novavax": 2,
+        "BPOM": 1,
+        "Badminton": 1,
+        "Bahagia": 1,
+        "Bahar": 4,
+        "Bahayanya": 1,
+        "Bakamla": 1,
+        "Baru": 19,
+        "Baruan": 1,
+        "Batas": 16,
+        "Bawang": 1,
+        "Beda": 1,
+        "Begini": 1,
+        "Beijing": 1,
+        "Beli": 3,
+        "Berakhir": 1,
+        "Berapa": 5,
+        "Berbick": 1,
+        "Beri": 1,
+        "Berkas": 1,
+        "Berubah": 1,
+        "Bikin": 16,
+        "Bio": 1,
+        "Biru": 5,
+        "Bisnis": 1,
+        "Blok": 1,
+        "Blue": 5,
+        "Boeing": 1,
+        "Boleh": 1,
+        "Bubar": 3,
+        "Bubarkan": 2,
+        "Buka": 1,
+        "Bulukumba": 1,
+        "Bunuh": 1,
+        "Bus": 1,
+        "CNNIndonesiacom": 1,
+        "COVID-19": 5,
+        "CPOB": 1,
+        "CT": 1,
+        "Capai": 2,
+        "Cegah": 1,
+        "Cepat": 1,
+        "Cermin": 16,
+        "China": 3,
+        "Cibinong": 1,
+        "Cinta": 1,
+        "Cipta": 1,
+        "Corona": 18,
+        "Corp": 1,
+        "Covid": 1,
+        "Covid-19": 20,
+        "DKI": 1,
+        "Dadakan": 16,
+        "Darurat": 1,
+        "Depan": 2,
+        "Desember": 1,
+        "Diabetes-Positif": 1,
+        "Dianggap": 3,
+        "Didorong": 1,
+        "Digitalisasi": 1,
+        "Dilarang": 3,
+        "Dimas": 1,
+        "Diperiksa": 1,
+        "Dirawat": 1,
+        "Direstui": 1,
+        "Dirilis": 2,
+        "Disdukcapil": 1,
+        "Diserbu": 1,
+        "Disidang": 1,
+        "Ditanya": 1,
+        "Diterbitkan": 1,
+        "Diuntungkan": 1,
+        "Donor": 1,
+        "Dosis": 2,
+        "Dua": 1,
+        "Dukung": 1,
+        "Dunia": 1,
+        "EUA": 1,
+        "Efikasi": 1,
+        "Ekonomi": 1,
+        "Era": 1,
+        "Extra": 16,
+        "FPI": 18,
+        "Fan": 1,
+        "Farma": 1,
+        "Fern": 5,
+        "Finlandia": 1,
+        "Fishing": 1,
+        "Fungsi": 1,
+        "GRATIS": 16,
+        "Gandeng": 1,
+        "Ganti": 1,
+        "Garap": 2,
+        "Gas": 1,
+        "Ghana": 4,
+        "Gimana": 1,
+        "Gisel": 20,
+        "Gratiskan": 16,
+        "Hanya": 2,
+        "Harga": 9,
+        "Haru": 16,
+        "Hias": 16,
+        "Hilang": 1,
+        "Hindari": 1,
+        "Hit": 16,
+        "Hobi": 16,
+        "Horee": 1,
+        "Hubungkan": 1,
+        "IPO": 1,
+        "ISIS": 1,
+        "Ibu": 16,
+        "Ikatan": 1,
+        "Illegal": 1,
+        "Indomie": 4,
+        "Indonesia": 4,
+        "Indosat": 1,
+        "Industri": 1,
+        "Inggris": 1,
+        "Ingin": 3,
+        "Ingub": 1,
+        "Ini": 21,
+        "Instagram": 1,
+        "Instruksi": 1,
+        "Investor": 1,
+        "Isi": 1,
+        "Itu": 1,
+        "Izin": 1,
+        "Jaber": 1,
+        "Jadi": 19,
+        "Jalan": 17,
+        "Jambi": 1,
+        "Janji": 16,
+        "Januari": 7,
+        "Jawaban": 1,
+        "Jelang": 5,
+        "Jiwa": 1,
+        "Jokowi": 1,
+        "Juara": 1,
+        "Judicial": 16,
+        "Juta": 10,
+        "Kajari": 1,
+        "Kaleidoskop": 1,
+        "Kami": 16,
+        "Kantongi": 1,
+        "Kantor": 1,
+        "Kapan": 1,
+        "Kapolri": 1,
+        "Karena": 1,
+        "Karmela": 2,
+        "Karoseri": 1,
+        "Kasus": 23,
+        "Kata": 1,
+        "Katakan": 1,
+        "Kawal": 1,
+        "Kebersihan": 1,
+        "Kebun": 16,
+        "Kecelakaan": 1,
+        "Kegiatan": 3,
+        "Kehijauan": 5,
+        "Kembali": 2,
+        "Kerja": 1,
+        "Khabib": 16,
+        "Killing": 16,
+        "Kirim": 1,
+        "Klasemen": 1,
+        "Klinis": 1,
+        "Kolong": 16,
+        "Komersial": 1,
+        "Komoditas": 1,
+        "Kompas": 16,
+        "Kondisi": 1,
+        "Konfirmasi": 1,
+        "Konsorsium": 1,
+        "Konteks": 1,
+        "Kota": 18,
+        "Lagi": 2,
+        "Lain": 3,
+        "Lala": 2,
+        "Lampung": 1,
+        "Langsung": 1,
+        "Laporkan": 1,
+        "Larang": 3,
+        "Laskar": 16,
+        "Laut": 4,
+        "Lawan": 1,
+        "Layanan": 1,
+        "Lebih": 17,
+        "Lengkap": 1,
+        "Listrik": 6,
+        "Liverpool": 1,
+        "Lockdown": 1,
+        "Logistik": 1,
+        "Lokal-Internasional": 1,
+        "MD": 3,
+        "MU": 2,
+        "MYD": 1,
+        "Mahfud": 3,
+        "Markas": 1,
+        "Max": 1,
+        "Melankolia": 16,
+        "Melicinkan": 1,
+        "Melihat": 2,
+        "Meminta": 1,
+        "Mengenal": 2,
+        "Menggeliat": 1,
+        "Mengintip": 2,
+        "Mengisi": 1,
+        "Menko": 2,
+        "Menlu": 1,
+        "Menteri": 1,
+        "Menular": 1,
+        "Merah": 1,
+        "Merger": 1,
+        "Meroket": 1,
+        "Mike": 1,
+        "Minta": 7,
+        "Mirip": 1,
+        "Moncer": 1,
+        "Motor": 5,
+        "Mulai": 7,
+        "Mulus": 1,
+        "Muncul": 1,
+        "Musik": 1,
+        "Mutasi": 1,
+        "Naik": 17,
+        "Nakes": 1,
+        "Nama": 1,
+        "Nasional": 1,
+        "Naskah": 1,
+        "Nataru": 1,
+        "Natuna": 1,
+        "Negeri": 1,
+        "Newcastle": 1,
+        "Nikmatnya": 1,
+        "Normal": 1,
+        "Novavax": 2,
+        "November": 4,
+        "Ogah": 1,
+        "Open": 1,
+        "Organisasi": 3,
+        "PN": 1,
+        "PTUN-kan": 1,
+        "Paham": 16,
+        "Pak": 16,
+        "Pakai": 4,
+        "Pakaian": 1,
+        "Paling": 16,
+        "Pandemi": 17,
+        "Panen": 1,
+        "Pasien": 1,
+        "Patimban": 1,
+        "Pegawai": 1,
+        "Pelabuhan": 1,
+        "Pelajari": 1,
+        "Pelarangan": 2,
+        "Peluang": 1,
+        "Pembubaran": 3,
+        "Pemerintah": 10,
+        "Pemulihan": 1,
+        "Pendonor": 1,
+        "Pengadaan": 1,
+        "Pengajian": 1,
+        "Pengelola": 1,
+        "Pengendara": 1,
+        "Pengguna": 1,
+        "Penjegal": 1,
+        "Penuh": 16,
+        "Penusukan": 1,
+        "Peralatan": 16,
+        "Percepat": 1,
+        "Pergi": 1,
+        "Perjalanan": 1,
+        "Pernyataan": 1,
+        "Perpanjangan": 1,
+        "Persen": 3,
+        "Pertama": 4,
+        "Perusahaan": 1,
+        "Pesawat": 1,
+        "Petugas": 2,
+        "Pilkada": 16,
+        "Plasma": 1,
+        "Playboy": 1,
+        "Polda": 2,
+        "Polhukam": 2,
+        "Polisi": 19,
+        "Polri": 16,
+        "Ponselnya": 1,
+        "Positif": 5,
+        "Presiden": 16,
+        "Prioritaskan": 1,
+        "Produksi": 1,
+        "Pulang": 17,
+        "Puncak": 1,
+        "Punya": 16,
+        "RI": 5,
+        "Raffi": 1,
+        "Raksasa": 1,
+        "Ramadhan": 1,
+        "Ratusan": 1,
+        "Rawan": 1,
+        "Razia": 2,
+        "Reaksi": 1,
+        "Reds": 1,
+        "Rekaman": 1,
+        "Rekor": 2,
+        "Rendah": 1,
+        "Repsol": 1,
+        "Resmi": 3,
+        "Restu": 1,
+        "Rizieq": 1,
+        "Rp": 10,
+        "Rugi": 1,
+        "Rumah": 20,
+        "Rusak": 1,
+        "SF9": 1,
+        "SIM": 1,
+        "SKB": 1,
+        "Saat": 16,
+        "Sah": 1,
+        "Sakakemang": 1,
+        "Satgas": 1,
+        "Saya": 1,
+        "Sebagai": 1,
+        "Sebagian": 1,
+        "Segera": 1,
+        "Sejak": 3,
+        "Seks": 7,
+        "Selain": 1,
+        "Selatan": 1,
+        "Semakin": 16,
+        "Sementara": 1,
+        "Sempat": 1,
+        "Senjata": 1,
+        "Sepak": 1,
+        "Serentak": 16,
+        "Setelah": 1,
+        "Setrika": 1,
+        "Sewa": 1,
+        "Shihab": 1,
+        "Si": 1,
+        "Siaga": 1,
+        "Siap": 1,
+        "Sinopsis": 1,
+        "Sinovac": 2,
+        "Skywell": 1,
+        "Smith": 1,
+        "Soal": 1,
+        "Sosialisasi": 1,
+        "Star": 5,
+        "Sudah": 9,
+        "Sulitnya": 1,
+        "Sumut": 1,
+        "Surya": 1,
+        "Sydney": 1,
+        "Syekh": 1,
+        "Syur": 1,
+        "Tahun": 21,
+        "Tanaman": 16,
+        "Tantangan": 1,
+        "Target": 1,
+        "Tembus": 4,
+        "Tenang": 5,
+        "Tengah": 1,
+        "Terbaik": 1,
+        "Terbakar": 1,
+        "Terbang": 1,
+        "Terbitkan": 1,
+        "Terhormat": 16,
+        "Terjang": 1,
+        "Terlarang": 3,
+        "Tersangka": 3,
+        "Terserap": 1,
+        "Tertibkan": 1,
+        "Terwujud": 1,
+        "Tetap": 1,
+        "Tetapkan": 3,
+        "Tewaskan": 1,
+        "Thailand": 1,
+        "The": 3,
+        "Tiada": 1,
+        "Tim": 1,
+        "Tok": 2,
+        "Transaksi": 4,
+        "Tri": 1,
+        "Tunda": 17,
+        "Tunggu": 1,
+        "Tutup": 3,
+        "Tyson": 1,
+        "UU": 1,
+        "Uji": 1,
+        "Ungkap": 1,
+        "Untung": 1,
+        "Usai": 1,
+        "Utara": 1,
+        "Utilisasi": 1,
+        "VIDEO": 21,
+        "Vaksin": 20,
+        "Vaksinasi": 5,
+        "Varian": 4,
+        "Video": 20,
+        "Virus": 1,
+        "Vs": 2,
+        "Wafat": 1,
+        "Wajah": 1,
+        "Wajib": 16,
+        "Warga": 2,
+        "Waspada": 1,
+        "Youngbin": 1,
+        "akan": 1,
+        "dalam": 1,
+        "dan": 1,
+        "dari": 1,
+        "dengan": 1,
+        "di": 1,
+        "ePaper": 1,
+        "jika": 1,
+        "karena": 1,
+        "ke": 1,
+        "per": 1,
+        "sebagai": 1,
+        "soal": 1,
+        "untuk": 1,
+        "versi": 1,
+        "via": 1,
+        "yang": 1
+    }
+}
